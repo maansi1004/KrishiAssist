@@ -5,7 +5,7 @@ from fastapi.responses import JSONResponse
 from starlette.exceptions import HTTPException as StarletteHTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
-from app.db.session import Base, engine
+# from app.db.session import Base, engine
 import app.models
 from app.api.schemes import router as schemes_router
 from app.api.auth import router as auth_router
@@ -22,7 +22,7 @@ from app.api.documents import router as documents_router
 from app.api.i18n import router as i18n_router
 from app.i18n.errors import error_info
 
-Base.metadata.create_all(bind=engine)
+# Base.metadata.create_all(bind=engine)
 # Load the administrator's scheme decisions (switched-off / verified schemes) into memory.
 from app.db.session import SessionLocal
 from app.services.scheme_admin import refresh_overrides
