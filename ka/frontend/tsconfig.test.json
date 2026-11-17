@@ -1,0 +1,22 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noEmit": false,
+    "outDir": ".test-build",
+    "rootDir": "src",
+    "ignoreDeprecations": "6.0"
+  },
+  "include": [
+    "src/i18n",
+    "src/types.ts",
+    "src/components.tsx",
+    "src/questions.tsx",
+    "src/matches.tsx",
+    "src/need.tsx",
+    "src/activity.tsx",
+    "src/documents.tsx",
+    "src/admin.tsx"
+  ]
+}

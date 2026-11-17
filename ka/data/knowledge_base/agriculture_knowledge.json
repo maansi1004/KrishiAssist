@@ -1,0 +1,499 @@
+[
+  {
+    "topic": "crop_insurance_general",
+    "keywords": [
+      "what is crop insurance",
+      "crop insurance",
+      "फसल बीमा क्या है",
+      "फसल बीमा",
+      "crop insurance scheme",
+      "crop loss insurance",
+      "insurance for crops",
+      "fasal bima",
+      "fasal bima yojana",
+      "फसल नुकसान बीमा",
+      "फसल का बीमा"
+    ],
+    "answers": {
+      "en": "Crop insurance helps protect a farmer against specified crop losses covered by the applicable policy and notification. Coverage, notified crops/areas, risks and deadlines vary, so check the current official notification before enrolling.",
+      "hi": "फसल बीमा लागू पॉलिसी और अधिसूचना में शामिल जोखिमों के कारण होने वाले फसल नुकसान से सुरक्षा देता है। कौन सी फसल/क्षेत्र और कौन सी समय-सीमा लागू है, यह बदल सकता है; आवेदन से पहले वर्तमान आधिकारिक अधिसूचना देखें।",
+      "hinglish": "Crop insurance applicable policy aur notification mein covered crop losses se protection deta hai. Crop, area, risks aur deadline season ke hisaab se change ho sakte hain, isliye current official notification check karein."
+    }
+  },
+  {
+    "topic": "irrigation_general",
+    "keywords": [
+      "irrigation",
+      "irrigation support",
+      "water management",
+      "सिंचाई",
+      "पानी की बचत",
+      "drip irrigation",
+      "sprinkler irrigation",
+      "save water",
+      "water saving",
+      "water efficient irrigation",
+      "टपक सिंचाई",
+      "ड्रिप सिंचाई",
+      "स्प्रिंकलर",
+      "पानी बचाना",
+      "paani bachana",
+      "sinchai kaise karein"
+    ],
+    "answers": {
+      "en": "For irrigation support, first identify your water source, irrigation method and farm size. Drip or sprinkler systems can improve water-use efficiency for suitable crops. Government support depends on the state, component and current programme rules.",
+      "hi": "सिंचाई सहायता के लिए पहले पानी के स्रोत, सिंचाई विधि और खेत का आकार देखें। उपयुक्त फसलों में ड्रिप या स्प्रिंकलर पानी के उपयोग की दक्षता बढ़ा सकते हैं। सरकारी सहायता राज्य, घटक और वर्तमान योजना नियमों पर निर्भर करती है।",
+      "hinglish": "Irrigation support ke liye water source, irrigation method aur farm size dekhein. Suitable crops mein drip ya sprinkler water efficiency improve kar sakte hain. Government support state aur current scheme rules par depend karta hai."
+    }
+  },
+  {
+    "topic": "soil_health",
+    "keywords": [
+      "soil health",
+      "soil test",
+      "soil testing",
+      "मिट्टी जांच",
+      "मृदा स्वास्थ्य",
+      "soil quality",
+      "soil nutrients",
+      "soil fertility",
+      "soil health card",
+      "मिट्टी की जांच",
+      "मिट्टी की गुणवत्ता",
+      "मिट्टी में पोषक तत्व",
+      "mitti ki jaanch",
+      "soil test kaise karein"
+    ],
+    "answers": {
+      "en": "A soil test can help determine nutrient status and guide fertilizer decisions. Avoid applying nutrients only by guesswork; use the soil test and crop requirement as a basis, and follow local agricultural recommendations.",
+      "hi": "मिट्टी की जांच से पोषक तत्वों की स्थिति समझने और उर्वरक निर्णय लेने में मदद मिलती है। केवल अनुमान से उर्वरक न डालें; मिट्टी की जांच, फसल की जरूरत और स्थानीय कृषि सलाह को आधार बनाएं।",
+      "hinglish": "Soil test se nutrient status samajhne aur fertilizer decision lene mein help milti hai. Sirf guess se fertilizer na lagayein; soil test, crop requirement aur local agriculture advice ko base banayein."
+    }
+  },
+  {
+    "topic": "seeds",
+    "keywords": [
+      "seed selection",
+      "seeds",
+      "good seed",
+      "बीज",
+      "बीज का चयन",
+      "seed quality",
+      "certified seeds",
+      "which seed variety",
+      "seed treatment",
+      "अच्छे बीज",
+      "प्रमाणित बीज",
+      "बीज की गुणवत्ता",
+      "beej ki quality",
+      "kaunsa beej lagayein"
+    ],
+    "answers": {
+      "en": "Choose seed suited to the crop, season, local conditions and recommended variety. Check seed quality, source and label information. Scheme-specific seed assistance should be checked against the relevant scheme component and state guidance.",
+      "hi": "बीज का चयन फसल, मौसम, स्थानीय परिस्थितियों और अनुशंसित किस्म के अनुसार करें। बीज की गुणवत्ता, स्रोत और लेबल की जानकारी जांचें। योजना से मिलने वाली बीज सहायता के लिए संबंधित घटक और राज्य की वर्तमान गाइडलाइन देखें।",
+      "hinglish": "Seed crop, season aur local conditions ke hisaab se choose karein. Seed quality, source aur label check karein. Government seed support ke liye relevant scheme component aur state guidance verify karein."
+    }
+  },
+  {
+    "topic": "farm_mechanization",
+    "keywords": [
+      "farm machinery",
+      "farm mechanization",
+      "tractor",
+      "मशीनरी",
+      "ट्रैक्टर",
+      "मशीनीकरण"
+    ],
+    "answers": {
+      "en": "For farm machinery support, first identify the equipment and its intended use. Scheme benefits can depend on farmer category, state, equipment/model, procurement conditions and prior approval. KrishiAssist checks those conditions when they are encoded in the scheme rules.",
+      "hi": "कृषि मशीनरी सहायता के लिए पहले उपकरण और उसका उपयोग तय करें। योजना का लाभ किसान की श्रेणी, राज्य, उपकरण/मॉडल, खरीद की शर्तों और पूर्व स्वीकृति पर निर्भर हो सकता है। KrishiAssist उपलब्ध नियमों के अनुसार इन शर्तों की जांच करता है।",
+      "hinglish": "Farm machinery support ke liye equipment aur intended use identify karein. Benefit farmer category, state, equipment/model, procurement conditions aur pre-approval par depend kar sakta hai. KrishiAssist available scheme rules ke basis par check karta hai."
+    }
+  },
+  {
+    "topic": "training",
+    "keywords": [
+      "farmer training",
+      "agriculture training",
+      "training",
+      "कृषि प्रशिक्षण",
+      "प्रशिक्षण",
+      "farmer course",
+      "agriculture workshop",
+      "किसान प्रशिक्षण",
+      "कृषि की ट्रेनिंग",
+      "training for farmers",
+      "kisan training"
+    ],
+    "answers": {
+      "en": "Farmer training can cover crop practices, machinery, post-harvest handling, farm management and new technologies. Eligibility and application channels vary by programme and state.",
+      "hi": "किसान प्रशिक्षण में फसल प्रबंधन, मशीनरी, कटाई के बाद प्रबंधन, फार्म प्रबंधन और नई तकनीक शामिल हो सकती हैं। पात्रता और आवेदन का तरीका योजना तथा राज्य के अनुसार बदलता है।",
+      "hinglish": "Farmer training mein crop practices, machinery, post-harvest, farm management aur new technology cover ho sakti hai. Eligibility aur application channel scheme aur state ke hisaab se change hota hai."
+    }
+  },
+  {
+    "topic": "crop_planning",
+    "keywords": [
+      "crop planning",
+      "which crop should i grow",
+      "best crop for my land",
+      "crop selection",
+      "crop calendar",
+      "फसल की योजना",
+      "कौन सी फसल उगाएं",
+      "फसल का चयन",
+      "kaunsi fasal ugaye"
+    ],
+    "answers": {
+      "en": "Crop choice depends on season, local climate, soil, water, farm size, input costs and market access. Compare locally recommended crops and crop duration before deciding. Share your location, soil type, water source and season for more specific guidance.",
+      "hi": "फसल का चयन मौसम, स्थानीय जलवायु, मिट्टी, पानी, खेत के आकार, लागत और बाजार पर निर्भर करता है। निर्णय से पहले स्थानीय रूप से अनुशंसित फसलों और फसल की अवधि की तुलना करें। अधिक उपयोगी सलाह के लिए अपना क्षेत्र, मिट्टी, पानी का स्रोत और मौसम बताएं।",
+      "hinglish": "Crop selection season, local climate, soil, water, farm size, input cost aur market access par depend karta hai. Locally recommended crops compare karein. Better guidance ke liye location, soil type, water source aur season batayein."
+    }
+  },
+  {
+    "topic": "crop_rotation",
+    "keywords": [
+      "crop rotation",
+      "which crop after wheat",
+      "which crop after rice",
+      "फसल चक्र",
+      "गेहूं के बाद कौन सी फसल",
+      "धान के बाद कौन सी फसल",
+      "fasal chakra"
+    ],
+    "answers": {
+      "en": "Crop rotation means growing different crops in sequence on the same land. A suitable rotation can support soil health and help manage some pests and diseases. Choose the sequence according to season, soil, water and local recommendations.",
+      "hi": "फसल चक्र में एक ही खेत में क्रम से अलग-अलग फसलें उगाई जाती हैं। उचित फसल चक्र मिट्टी की सेहत और कुछ कीटों व रोगों के प्रबंधन में मदद कर सकता है। फसल का क्रम मौसम, मिट्टी, पानी और स्थानीय सलाह के अनुसार चुनें।",
+      "hinglish": "Crop rotation mein same field mein sequence se different crops grow ki jaati hain. Suitable rotation soil health aur kuch pests/diseases manage karne mein help kar sakta hai. Sequence season, soil, water aur local advice ke according choose karein."
+    }
+  },
+  {
+    "topic": "fertilizer_management",
+    "keywords": [
+      "fertilizer",
+      "fertiliser",
+      "which fertilizer to use",
+      "fertilizer quantity",
+      "urea",
+      "dap",
+      "npk",
+      "खाद",
+      "उर्वरक",
+      "यूरिया",
+      "डीएपी",
+      "कितनी खाद डालें",
+      "kaunsi khaad"
+    ],
+    "answers": {
+      "en": "Fertilizer needs depend on crop, soil-test results, growth stage and expected yield. Use a soil test and local crop recommendations to plan nutrients. Avoid excessive or guess-based application and follow product-label instructions.",
+      "hi": "उर्वरक की जरूरत फसल, मिट्टी की जांच, फसल की अवस्था और अपेक्षित उत्पादन पर निर्भर करती है। पोषक तत्वों की योजना के लिए मिट्टी की जांच और स्थानीय कृषि सलाह का उपयोग करें। अनुमान से या जरूरत से ज्यादा खाद न डालें।",
+      "hinglish": "Fertilizer need crop, soil test, growth stage aur expected yield par depend karti hai. Soil test aur local recommendation ke basis par nutrients plan karein. Excess application avoid karein aur product label follow karein."
+    }
+  },
+  {
+    "topic": "organic_farming",
+    "keywords": [
+      "organic farming",
+      "natural farming",
+      "compost",
+      "vermicompost",
+      "organic manure",
+      "जैविक खेती",
+      "प्राकृतिक खेती",
+      "केंचुआ खाद",
+      "कम्पोस्ट",
+      "organic kheti"
+    ],
+    "answers": {
+      "en": "Organic farming focuses on soil health, biodiversity and permitted organic inputs. Compost, vermicompost, crop residues and suitable biological methods may be used. Plan nutrient supply and pest monitoring carefully; certification must follow applicable standards.",
+      "hi": "जैविक खेती में मिट्टी की सेहत, जैव विविधता और अनुमत जैविक इनपुट पर ध्यान दिया जाता है। कम्पोस्ट, वर्मी कम्पोस्ट, फसल अवशेष और उपयुक्त जैविक तरीके अपनाए जा सकते हैं। प्रमाणन के लिए लागू मानकों का पालन करें।",
+      "hinglish": "Organic farming soil health, biodiversity aur permitted organic inputs par focus karti hai. Compost, vermicompost aur suitable biological methods use ho sakte hain. Nutrient planning karein aur certification standards follow karein."
+    }
+  },
+  {
+    "topic": "pest_management",
+    "keywords": [
+      "pest management",
+      "crop pests",
+      "insects in crop",
+      "insect attack",
+      "pest control",
+      "कीट नियंत्रण",
+      "फसल में कीड़े",
+      "कीट प्रबंधन",
+      "fasal mein keede",
+      "keeda lag gaya"
+    ],
+    "answers": {
+      "en": "First identify the pest and assess damage. Monitor the field, maintain sanitation and consider suitable mechanical or biological methods. Use pesticides only when recommended for the identified pest and crop, following approved label and safety precautions.",
+      "hi": "सबसे पहले कीट की पहचान करें और नुकसान का स्तर देखें। खेत की निगरानी, सफाई और उपयुक्त यांत्रिक या जैविक तरीके अपनाएं। कीटनाशक तभी उपयोग करें जब वह संबंधित कीट और फसल के लिए अनुशंसित हो।",
+      "hinglish": "Pehle pest identify karein aur damage assess karein. Field monitoring, sanitation aur suitable mechanical/biological methods use karein. Pesticide sirf recommended hone par label aur safety instructions ke saath use karein."
+    }
+  },
+  {
+    "topic": "crop_disease_management",
+    "keywords": [
+      "crop disease",
+      "plant disease",
+      "fungal infection",
+      "leaf spots",
+      "yellow leaves",
+      "plant infection",
+      "फसल की बीमारी",
+      "पौधों में रोग",
+      "पत्तियों पर धब्बे",
+      "पत्ते पीले होना",
+      "fasal mein bimari",
+      "patte peele"
+    ],
+    "answers": {
+      "en": "Crop symptoms may have several causes, including diseases, nutrient problems, water stress or pests. Observe affected parts and whether symptoms are spreading. Do not diagnose from one symptom alone; seek local expert confirmation before treatment.",
+      "hi": "फसल के लक्षणों के कई कारण हो सकते हैं, जैसे रोग, पोषक तत्वों की कमी, पानी का तनाव या कीट। प्रभावित हिस्सों और लक्षणों के फैलने पर ध्यान दें। केवल एक लक्षण से रोग का निर्णय न लें। उपचार से पहले कृषि विशेषज्ञ से पुष्टि करें।",
+      "hinglish": "Crop symptoms ke multiple causes ho sakte hain, jaise disease, nutrient issue, water stress ya pests. Affected parts aur symptoms spread ho rahe hain ya nahi dekhein. Sirf ek symptom se diagnosis na karein; treatment se pehle expert se confirm karein."
+    }
+  },
+  {
+    "topic": "weed_management",
+    "keywords": [
+      "weed management",
+      "weeds in field",
+      "remove weeds",
+      "weed control",
+      "खरपतवार",
+      "खरपतवार नियंत्रण",
+      "खेत में घास",
+      "kharpatwar kaise hatayein"
+    ],
+    "answers": {
+      "en": "Weeds compete with crops for water, nutrients, sunlight and space. Timely manual or mechanical weeding, mulching and crop-specific practices can help. Use herbicides only when approved for the crop and situation, following label and safety instructions.",
+      "hi": "खरपतवार फसल के साथ पानी, पोषक तत्वों, धूप और जगह के लिए प्रतिस्पर्धा करते हैं। समय पर निराई, यांत्रिक तरीके, मल्चिंग और फसल के अनुसार उपाय मदद कर सकते हैं। खरपतवारनाशी का उपयोग केवल अनुमोदित स्थिति में और लेबल निर्देशों के अनुसार करें।",
+      "hinglish": "Weeds crop ke saath water, nutrients, sunlight aur space ke liye compete karte hain. Timely weeding, mechanical methods aur mulching help kar sakte hain. Herbicide sirf approved use ke liye label follow karke use karein."
+    }
+  },
+  {
+    "topic": "drought_management",
+    "keywords": [
+      "drought",
+      "water shortage",
+      "less rainfall",
+      "dry field",
+      "crop water stress",
+      "सूखा",
+      "पानी की कमी",
+      "कम बारिश",
+      "फसल में पानी की कमी",
+      "paani ki kami",
+      "barish nahi ho rahi"
+    ],
+    "answers": {
+      "en": "During water shortage, prioritize irrigation according to crop growth stage and local recommendations. Mulching, timely weed control and soil-moisture conservation may reduce stress. Consider local forecasts and available water before making crop decisions.",
+      "hi": "पानी की कमी के दौरान फसल की अवस्था और स्थानीय सलाह के अनुसार सिंचाई को प्राथमिकता दें। मल्चिंग, समय पर खरपतवार नियंत्रण और मिट्टी में नमी बनाए रखने के उपाय मदद कर सकते हैं। निर्णय से पहले स्थानीय मौसम और उपलब्ध पानी देखें।",
+      "hinglish": "Water shortage mein crop stage aur local advice ke according irrigation prioritize karein. Mulching, timely weed control aur soil moisture conservation help kar sakte hain. Local forecast aur available water consider karein."
+    }
+  },
+  {
+    "topic": "waterlogging_management",
+    "keywords": [
+      "waterlogging",
+      "standing water",
+      "water in field",
+      "heavy rain damage",
+      "flooded field",
+      "जलभराव",
+      "खेत में पानी भरना",
+      "अधिक बारिश",
+      "पानी जमा होना",
+      "khet mein paani bhar gaya"
+    ],
+    "answers": {
+      "en": "Waterlogging can reduce oxygen around roots and damage crops. Where safe and feasible, improve drainage and prevent additional water entering the field. Monitor crops after water recedes. Do not enter flooded fields in unsafe conditions.",
+      "hi": "जलभराव से जड़ों तक ऑक्सीजन कम पहुंच सकती है और फसल को नुकसान हो सकता है। जहां सुरक्षित और संभव हो, जल निकासी सुधारें और अतिरिक्त पानी का प्रवेश रोकें। पानी उतरने के बाद फसल की निगरानी करें। असुरक्षित खेत में प्रवेश न करें।",
+      "hinglish": "Waterlogging se roots ko oxygen kam mil sakti hai. Jahan safe ho drainage improve karein aur extra water rokein. Paani utarne ke baad crop monitor karein. Unsafe flooded field mein enter na karein."
+    }
+  },
+  {
+    "topic": "weather_and_crop_protection",
+    "keywords": [
+      "weather for farming",
+      "rain forecast",
+      "weather impact on crops",
+      "strong wind",
+      "heat stress",
+      "cold wave",
+      "frost",
+      "मौसम और खेती",
+      "बारिश का पूर्वानुमान",
+      "तेज हवा",
+      "लू",
+      "पाला",
+      "mausam ka fasal par asar"
+    ],
+    "answers": {
+      "en": "Weather affects sowing, irrigation, spraying, flowering and harvesting. Check reliable local forecasts and agricultural advisories before time-sensitive field work. During extreme weather, follow crop-specific protective measures recommended for your area.",
+      "hi": "मौसम का असर बुवाई, सिंचाई, छिड़काव, फूल आने और कटाई पर पड़ता है। जरूरी खेत कार्य से पहले स्थानीय मौसम पूर्वानुमान और कृषि सलाह देखें। खराब मौसम में अपने क्षेत्र के लिए अनुशंसित फसल सुरक्षा उपाय अपनाएं।",
+      "hinglish": "Weather sowing, irrigation, spraying, flowering aur harvesting ko affect karta hai. Field work se pehle local forecast aur agriculture advisory check karein. Extreme weather mein crop-specific protection follow karein."
+    }
+  },
+  {
+    "topic": "harvesting",
+    "keywords": [
+      "harvesting",
+      "when to harvest",
+      "crop maturity",
+      "harvest time",
+      "कटाई",
+      "फसल की कटाई",
+      "फसल कब काटें",
+      "katai ka sahi samay"
+    ],
+    "answers": {
+      "en": "Harvest at the appropriate maturity stage for the crop and intended use. Timing can affect quality, storage life and market value. Consider crop-specific maturity indicators, weather, labour and equipment availability.",
+      "hi": "फसल की कटाई उसकी उचित परिपक्वता अवस्था और उपयोग के अनुसार करें। कटाई का समय गुणवत्ता, भंडारण अवधि और बाजार मूल्य को प्रभावित कर सकता है। परिपक्वता के संकेत, मौसम, मजदूरों और उपकरणों की उपलब्धता देखें।",
+      "hinglish": "Crop ko suitable maturity stage par harvest karein. Timing quality, storage life aur market value affect kar sakti hai. Maturity indicators, weather, labour aur equipment availability consider karein."
+    }
+  },
+  {
+    "topic": "grain_storage",
+    "keywords": [
+      "grain storage",
+      "store harvested crops",
+      "grain preservation",
+      "storage pests",
+      "safe grain storage",
+      "अनाज भंडारण",
+      "फसल का भंडारण",
+      "अनाज में कीड़े",
+      "anaaj kaise store karein"
+    ],
+    "answers": {
+      "en": "Dry harvested grain to the moisture level recommended for the crop and storage method before storing. Use clean, dry storage and protect produce from moisture, rodents, insects and contamination. Inspect stored grain regularly.",
+      "hi": "भंडारण से पहले अनाज को फसल और भंडारण विधि के अनुसार अनुशंसित नमी स्तर तक सुखाएं। साफ और सूखे भंडारण स्थान का उपयोग करें। अनाज को नमी, चूहों, कीटों और दूषित पदार्थों से बचाएं तथा नियमित जांच करें।",
+      "hinglish": "Storage se pehle grain ko recommended moisture level tak dry karein. Clean aur dry storage use karein. Grain ko moisture, rodents, insects aur contamination se bachayein aur regular inspection karein."
+    }
+  },
+  {
+    "topic": "post_harvest_management",
+    "keywords": [
+      "post harvest management",
+      "after harvesting",
+      "crop handling",
+      "grading",
+      "sorting",
+      "packaging",
+      "कटाई के बाद प्रबंधन",
+      "फसल की छंटाई",
+      "ग्रेडिंग",
+      "katai ke baad kya karein"
+    ],
+    "answers": {
+      "en": "Post-harvest management includes cleaning, sorting, grading, drying, packaging and storage. Handle produce carefully to reduce damage. Requirements differ for grains, fruits and vegetables. Check local market quality standards before selling.",
+      "hi": "कटाई के बाद प्रबंधन में सफाई, छंटाई, ग्रेडिंग, सुखाना, पैकिंग और भंडारण शामिल हैं। फसल को सावधानी से संभालें। अनाज, फल और सब्जियों के तरीके अलग हो सकते हैं। बिक्री से पहले स्थानीय गुणवत्ता मानक देखें।",
+      "hinglish": "Post-harvest management mein cleaning, sorting, grading, drying, packaging aur storage include hain. Produce carefully handle karein. Grains, fruits aur vegetables ke methods alag hain. Selling se pehle quality standards check karein."
+    }
+  },
+  {
+    "topic": "market_and_msp",
+    "keywords": [
+      "crop market",
+      "sell my crop",
+      "where to sell crops",
+      "mandi price",
+      "market price",
+      "msp",
+      "minimum support price",
+      "फसल कहां बेचें",
+      "मंडी भाव",
+      "न्यूनतम समर्थन मूल्य",
+      "एमएसपी",
+      "fasal kahan bechein"
+    ],
+    "answers": {
+      "en": "Before selling, compare market prices, quality requirements, transport costs and payment terms. MSP is announced for selected crops, but procurement depends on current arrangements, location, quality and procurement periods. Check current official announcements and local procurement centres.",
+      "hi": "फसल बेचने से पहले बाजार भाव, गुणवत्ता की शर्तें, परिवहन खर्च और भुगतान की शर्तों की तुलना करें। MSP कुछ चयनित फसलों के लिए घोषित होता है, लेकिन खरीद स्थान, गुणवत्ता और अवधि पर निर्भर करती है। वर्तमान आधिकारिक जानकारी और स्थानीय खरीद केंद्र से पुष्टि करें।",
+      "hinglish": "Crop sell karne se pehle market rates, quality, transport cost aur payment terms compare karein. MSP selected crops ke liye announce hota hai, lekin procurement location, quality aur period par depend karti hai. Current official info se confirm karein."
+    }
+  },
+  {
+    "topic": "farm_record_management",
+    "keywords": [
+      "farm records",
+      "farm expenses",
+      "farming costs",
+      "farm income",
+      "crop expenses",
+      "farm accounting",
+      "खेती का खर्च",
+      "खेती का हिसाब",
+      "कृषि लागत",
+      "kheti ka kharcha"
+    ],
+    "answers": {
+      "en": "Farm records help track input costs, labour, irrigation, machinery, yield and sales. Record each expense and income with its date and crop. Comparing records across seasons can help estimate profitability and improve planning.",
+      "hi": "खेती का रिकॉर्ड रखने से बीज, खाद, मजदूरी, सिंचाई, मशीनरी, उत्पादन और बिक्री का हिसाब रखने में मदद मिलती है। हर खर्च और आय को तारीख तथा फसल के साथ दर्ज करें। अलग-अलग मौसमों के रिकॉर्ड की तुलना करें।",
+      "hinglish": "Farm records se seeds, fertilizer, labour, irrigation, machinery, yield aur sales track hote hain. Har expense aur income ko date aur crop ke saath record karein. Seasons compare karke profitability samajh sakte hain."
+    }
+  },
+  {
+    "topic": "farm_credit",
+    "keywords": [
+      "agriculture loan",
+      "farm loan",
+      "crop loan",
+      "kisan credit card",
+      "kcc",
+      "agriculture credit",
+      "कृषि ऋण",
+      "किसान क्रेडिट कार्ड",
+      "फसल ऋण",
+      "खेती के लिए लोन",
+      "kheti ke liye loan"
+    ],
+    "answers": {
+      "en": "Farm credit may help meet eligible cultivation expenses. Kisan Credit Card is one route for eligible farmers to access agricultural credit through participating banks. Limits, interest, repayment and eligibility depend on current rules and the bank.",
+      "hi": "कृषि ऋण खेती के पात्र खर्चों के लिए वित्तीय सहायता दे सकता है। किसान क्रेडिट कार्ड पात्र किसानों को भाग लेने वाले बैंकों के माध्यम से कृषि ऋण प्राप्त करने का एक तरीका है। ऋण सीमा, ब्याज और पात्रता वर्तमान नियमों तथा बैंक पर निर्भर करते हैं।",
+      "hinglish": "Farm credit eligible cultivation expenses ke liye help kar sakta hai. KCC participating banks ke through eligible farmers ko credit access karne ka option hai. Limit, interest aur eligibility current rules aur bank par depend karte hain."
+    }
+  },
+  {
+    "topic": "livestock_and_dairy",
+    "keywords": [
+      "livestock farming",
+      "dairy farming",
+      "animal husbandry",
+      "cattle care",
+      "milk production",
+      "पशुपालन",
+      "डेयरी फार्मिंग",
+      "दूध उत्पादन",
+      "पशुओं की देखभाल",
+      "pashupalan",
+      "dairy ka business"
+    ],
+    "answers": {
+      "en": "Livestock and dairy management require balanced feed, clean water, hygienic housing, regular health monitoring and timely veterinary care. Maintain vaccination and treatment records. Consult a veterinarian for illness or treatment decisions.",
+      "hi": "पशुपालन और डेयरी प्रबंधन के लिए संतुलित आहार, साफ पानी, स्वच्छ आवास, नियमित स्वास्थ्य जांच और समय पर पशु चिकित्सा जरूरी है। टीकाकरण और उपचार का रिकॉर्ड रखें। बीमारी के लिए पशु चिकित्सक से सलाह लें।",
+      "hinglish": "Livestock aur dairy management ke liye balanced feed, clean water, hygienic housing aur timely veterinary care zaroori hai. Vaccination records rakhein aur illness ke liye veterinarian se consult karein."
+    }
+  },
+  {
+    "topic": "farmer_market_linkage",
+    "keywords": [
+      "farmer producer organization",
+      "fpo",
+      "farmer group",
+      "collective farming",
+      "sell together",
+      "market linkage",
+      "किसान उत्पादक संगठन",
+      "एफपीओ",
+      "किसान समूह",
+      "सामूहिक बिक्री",
+      "fpo kya hai"
+    ],
+    "answers": {
+      "en": "A Farmer Producer Organization (FPO) is a farmer-led organization that may help members aggregate produce, access inputs, improve bargaining power and connect with markets. Services vary by organization and location. Check active FPOs and membership conditions locally.",
+      "hi": "किसान उत्पादक संगठन (FPO) किसानों द्वारा संचालित संगठन है, जो उपज एकत्र करने, कृषि इनपुट प्राप्त करने, बेहतर सौदेबाजी और बाजार से जुड़ने में मदद कर सकता है। सेवाएं संगठन और क्षेत्र के अनुसार अलग होती हैं। स्थानीय स्तर पर सक्रिय FPO की जानकारी लें।",
+      "hinglish": "FPO ek farmer-led organization hai jo produce aggregation, inputs, bargaining power aur market linkage mein help kar sakta hai. Services location aur organization ke according vary karti hain. Local active FPO aur membership details check karein."
+    }
+  }
+]

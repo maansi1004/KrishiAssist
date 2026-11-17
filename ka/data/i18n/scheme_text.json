@@ -1,0 +1,2433 @@
+{
+ "_meta": {
+  "description": "Translations of scheme text (benefits, documents, steps, rule criteria, remediation, ...). Keyed by the EXACT English text used in data/schemes.json. Each entry has 'hi' and 'hinglish'. Edit schemes.json -> add/refresh the matching entry here. Checked by `python -m app.scripts.i18n_audit`.",
+  "languages": [
+   "hi",
+   "hinglish"
+  ],
+  "version": 1,
+  "keep_as_is": {
+   "hinglish": [
+    "Aadhaar",
+    "Applicant/implementing authority",
+    "Assam",
+    "Authorized dealer",
+    "Bank details",
+    "Cash invoice",
+    "DPR/financial documents",
+    "Farmer",
+    "Goa",
+    "Gram Sevak",
+    "Gujarat",
+    "Haryana",
+    "I-Khedut",
+    "ID card ₹400",
+    "Implementing authority",
+    "Krishi Card abstract",
+    "Krishimela",
+    "Mobile number",
+    "Official scheme portal",
+    "Offline",
+    "Offline – Coffee Board Extension Office",
+    "Online",
+    "Online project DBT portal",
+    "Online – Antyodaya-SARAL",
+    "Passbook",
+    "Passport photo",
+    "Photograph",
+    "Ration card",
+    "Site inspection",
+    "Soil Health Card",
+    "State-level sharing workshop",
+    "Step 1",
+    "Step 2",
+    "Step 3",
+    "Tamil Nadu",
+    "Technical review",
+    "Tehsildar/SDM verification",
+    "Training ₹4,000",
+    "Uttarakhand",
+    "krishiAssist.docx"
+   ],
+   "hi": [
+    "I-Khedut",
+    "krishiAssist.docx"
+   ],
+   "note": "Reviewed: identical to English on purpose (official names, file names, or English terms Hinglish speakers use as they are). Anything else identical to English is reported as untranslated."
+  }
+ },
+ "entries": {
+  "10-day international study tour": {
+   "hi": "10 दिवसीय अंतरराष्ट्रीय अध्ययन भ्रमण",
+   "hinglish": "10-din ka international study tour"
+  },
+  "10-day out-of-state study tour": {
+   "hi": "10 दिवसीय राज्य के बाहर अध्ययन भ्रमण",
+   "hinglish": "10-din ka out-of-state study tour"
+  },
+  "16% SCP": {
+   "hi": "16% SCP (अनुसूचित जाति उप-योजना)",
+   "hinglish": "16% SCP (Scheduled Caste Sub-Plan)"
+  },
+  "4-day institutional course": {
+   "hi": "4 दिवसीय संस्थागत पाठ्यक्रम",
+   "hinglish": "4-din ka sansthagat course"
+  },
+  "5-day youth training": {
+   "hi": "5 दिवसीय युवा प्रशिक्षण",
+   "hinglish": "5-din ka youth training"
+  },
+  "7-day in-state study tour": {
+   "hi": "7 दिवसीय राज्य के भीतर अध्ययन भ्रमण",
+   "hinglish": "7-din ka in-state study tour"
+  },
+  "75% subsidy, stated as limited to ₹1,950 per cubic metre for vermi-compost units.": {
+   "hi": "वर्मी-कम्पोस्ट इकाइयों के लिए 75% सब्सिडी, जो ₹1,950 प्रति घन मीटर तक सीमित बताई गई है।",
+   "hinglish": "Vermi-compost units ke liye 75% subsidy, jo ₹1,950 prati ghan meter tak seemit bataayi gayi hai."
+  },
+  "8% TSP": {
+   "hi": "8% TSP (जनजातीय उप-योजना)",
+   "hinglish": "8% TSP (Tribal Sub-Plan)"
+  },
+  "90% central / 10% state": {
+   "hi": "90% केंद्र / 10% राज्य",
+   "hinglish": "90% Kendra / 10% State"
+  },
+  "90% central / 10% state funding pattern noted for the reviewed component.": {
+   "hi": "समीक्षित घटक के लिए 90% केंद्र / 10% राज्य वित्तपोषण पैटर्न उल्लिखित है।",
+   "hinglish": "Reviewed component ke liye 90% Kendra / 10% State funding pattern ullikhit hai."
+  },
+  "90% subsidy against the eligible standard cost for qualifying biogas plants, subject to the applicable unit size and rules.": {
+   "hi": "पात्र बायोगैस संयंत्रों के लिए पात्र मानक लागत पर 90% सब्सिडी, लागू इकाई आकार और नियमों के अधीन।",
+   "hinglish": "Patra biogas plants ke liye patra standard cost par 90% subsidy, lagu unit size aur niyamon ke adheen."
+  },
+  ">40 to 60 PTO HP: 25% of eligible expense or ₹60,000, whichever is less.": {
+   "hi": ">40 से 60 PTO HP: पात्र व्यय का 25% या ₹60,000, जो भी कम हो।",
+   "hinglish": ">40 se 60 PTO HP: patra kharch ka 25% ya ₹60,000, jo bhi kam ho."
+  },
+  "Aadhaar": {
+   "hi": "आधार",
+   "hinglish": "Aadhaar"
+  },
+  "Aadhaar/identity proof": {
+   "hi": "आधार/पहचान प्रमाण",
+   "hinglish": "Aadhaar/pehchaan praman"
+  },
+  "Access to eligible short-term agricultural credit; exact limits and interest support are subject to current rules.": {
+   "hi": "पात्र अल्पकालिक कृषि ऋण की सुविधा; सटीक सीमाएं और ब्याज सहायता वर्तमान नियमों के अधीन हैं।",
+   "hinglish": "Patra alpkalik krishi rin (short-term agricultural credit) ki suvidha; exact limits aur byaaj sahayata vartaman niyamon ke adheen hain."
+  },
+  "Access to soil testing and soil analysis reports through applicable implementing facilities.": {
+   "hi": "लागू कार्यान्वयन सुविधाओं के माध्यम से मिट्टी की जांच और मृदा विश्लेषण रिपोर्ट की सुविधा।",
+   "hinglish": "Lagu implementing facilities ke zariye soil testing aur soil analysis reports ki suvidha."
+  },
+  "Activity-specific assistance as defined by current mission guidelines and state action plans.": {
+   "hi": "वर्तमान मिशन दिशानिर्देशों और राज्य कार्य योजनाओं के अनुसार गतिविधि-विशेष सहायता।",
+   "hinglish": "Vartaman mission guidelines aur state action plans ke anusaar activity-specific sahayata."
+  },
+  "Activity-specific selection and availability": {
+   "hi": "गतिविधि-विशेष चयन और उपलब्धता",
+   "hinglish": "Activity-specific selection aur availability"
+  },
+  "Activity-specific support subject to current mission and state guidelines.": {
+   "hi": "वर्तमान मिशन और राज्य दिशानिर्देशों के अधीन गतिविधि-विशेष सहायता।",
+   "hinglish": "Vartaman mission aur state guidelines ke adheen activity-specific sahayata."
+  },
+  "Add or verify landholding information.": {
+   "hi": "भूमि की जानकारी जोड़ें या सत्यापित करवाएं।",
+   "hinglish": "Zameen ki jaankari add karein ya verify karwayein."
+  },
+  "After approval, assistance is disbursed through the prescribed Tehsil process.": {
+   "hi": "स्वीकृति के बाद सहायता निर्धारित तहसील प्रक्रिया से वितरित की जाती है।",
+   "hinglish": "Approval ke baad sahayata nirdharit Tehsil process se vitarit ki jaati hai."
+  },
+  "After planting, submit the prescribed form and documents to the relevant Coffee Board Extension Office.": {
+   "hi": "रोपण के बाद, निर्धारित फ़ॉर्म और दस्तावेज़ संबंधित कॉफी बोर्ड विस्तार कार्यालय में जमा करें।",
+   "hinglish": "Ropan ke baad, nirdharit form aur documents sambandhit Coffee Board Extension Office mein jama karein."
+  },
+  "Age information must be available for youth-targeted activities": {
+   "hi": "युवा-लक्षित गतिविधियों के लिए आयु की जानकारी उपलब्ध होनी चाहिए",
+   "hinglish": "Youth-targeted activities ke liye aayu ki jaankari available honi chahiye"
+  },
+  "Age proof": {
+   "hi": "आयु प्रमाण",
+   "hinglish": "Aayu praman"
+  },
+  "Age verification": {
+   "hi": "आयु सत्यापन",
+   "hinglish": "Aayu verification"
+  },
+  "Agricultural activity verification": {
+   "hi": "कृषि गतिविधि का सत्यापन",
+   "hinglish": "Krishi gatividhi ka verification"
+  },
+  "Agricultural land evidence": {
+   "hi": "कृषि भूमि का प्रमाण",
+   "hinglish": "Krishi bhoomi ka praman"
+  },
+  "Agriculture Department, Gujarat": {
+   "hi": "कृषि विभाग, गुजरात",
+   "hinglish": "Krishi Vibhag, Gujarat"
+  },
+  "Agriculture, Cooperation & Farmers’ Welfare, Ministry of Agriculture & Farmers Welfare": {
+   "hi": "कृषि, सहकारिता एवं किसान कल्याण विभाग, कृषि एवं किसान कल्याण मंत्रालय",
+   "hinglish": "Krishi, Sahkarita evam Kisan Kalyan Vibhag, Krishi evam Kisan Kalyan Mantralaya"
+  },
+  "Agriculture-Farmers Welfare Department": {
+   "hi": "कृषि-किसान कल्याण विभाग",
+   "hinglish": "Krishi-Kisan Kalyan Vibhag"
+  },
+  "All India": {
+   "hi": "संपूर्ण भारत",
+   "hinglish": "Poore India mein"
+  },
+  "All India subject to notified crops/areas": {
+   "hi": "अधिसूचित फसलों/क्षेत्रों के अधीन संपूर्ण भारत",
+   "hinglish": "Notified fasalon/areas ke adheen poore India mein"
+  },
+  "annual support": {
+   "hi": "वार्षिक सहायता",
+   "hinglish": "Saalana sahayata"
+  },
+  "Applicable crop/land category": {
+   "hi": "लागू फसल/भूमि श्रेणी",
+   "hinglish": "Lagu fasal/bhoomi category"
+  },
+  "Applicable farmer identity/land records": {
+   "hi": "लागू किसान पहचान/भूमि रिकॉर्ड",
+   "hinglish": "Lagu farmer pehchaan/zameen records"
+  },
+  "Applicable geographic condition must be satisfied": {
+   "hi": "लागू भौगोलिक शर्त पूरी होनी चाहिए",
+   "hinglish": "Lagu bhaugolik shart poori honi chahiye"
+  },
+  "Applicable insured risks and conditions": {
+   "hi": "लागू बीमित जोखिम और शर्तें",
+   "hinglish": "Lagu bimit jokhim aur sharten"
+  },
+  "Applicable NFSM component and state implementation guidelines": {
+   "hi": "लागू NFSM घटक और राज्य कार्यान्वयन दिशानिर्देश",
+   "hinglish": "Lagu NFSM component aur state implementation guidelines"
+  },
+  "Applicable project type and technical sanction": {
+   "hi": "लागू परियोजना प्रकार और तकनीकी स्वीकृति",
+   "hinglish": "Lagu project type aur technical sanction"
+  },
+  "Applicable where the applicant relies on a qualifying lease.": {
+   "hi": "जहां आवेदक योग्य पट्टे के आधार पर आवेदन करता है वहां लागू।",
+   "hinglish": "Jahan applicant yogya lease ke aadhar par apply karta hai wahan lagu."
+  },
+  "Applicant generally must be at least 18 years old": {
+   "hi": "आवेदक की आयु सामान्यतः कम से कम 18 वर्ष होनी चाहिए",
+   "hinglish": "Applicant ki aayu aam taur par kam se kam 18 saal honi chahiye"
+  },
+  "Applicant group/company must be registered under the applicable project requirements": {
+   "hi": "आवेदक समूह/कंपनी लागू परियोजना आवश्यकताओं के अनुसार पंजीकृत होनी चाहिए",
+   "hinglish": "Applicant group/company lagu project zarooraton ke anusaar registered honi chahiye"
+  },
+  "Applicant is a farmer": {
+   "hi": "आवेदक किसान है",
+   "hinglish": "Applicant farmer hai"
+  },
+  "Applicant may be a farmer or eligible farm-family participant": {
+   "hi": "आवेदक किसान या पात्र कृषक-परिवार का सहभागी हो सकता है",
+   "hinglish": "Applicant farmer ya patra farm-family participant ho sakta hai"
+  },
+  "Applicant must be a farmer": {
+   "hi": "आवेदक किसान होना चाहिए",
+   "hinglish": "Applicant kisan hona chahiye"
+  },
+  "Applicant must be a farmer, tenant farmer, or sharecropper covered by the scheme": {
+   "hi": "आवेदक योजना के अंतर्गत आने वाला किसान, काश्तकार (किरायेदार) किसान या बटाईदार होना चाहिए",
+   "hinglish": "Applicant scheme ke antargat aane wala farmer, tenant farmer ya sharecropper hona chahiye"
+  },
+  "Applicant must be a Gujarat farmer": {
+   "hi": "आवेदक गुजरात का किसान होना चाहिए",
+   "hinglish": "Applicant Gujarat ka farmer hona chahiye"
+  },
+  "Applicant must be a permanent Gujarat resident": {
+   "hi": "आवेदक गुजरात का स्थायी निवासी होना चाहिए",
+   "hinglish": "Applicant Gujarat ka sthayi niwasi hona chahiye"
+  },
+  "Applicant must be a permanent resident of Haryana": {
+   "hi": "आवेदक हरियाणा का स्थायी निवासी होना चाहिए",
+   "hinglish": "Applicant Haryana ka sthayi niwasi hona chahiye"
+  },
+  "Applicant must be a resident of Uttarakhand": {
+   "hi": "आवेदक उत्तराखंड का निवासी होना चाहिए",
+   "hinglish": "Applicant Uttarakhand ka niwasi hona chahiye"
+  },
+  "Applicant must be a tribal grower": {
+   "hi": "आवेदक जनजातीय उत्पादक (tribal grower) होना चाहिए",
+   "hinglish": "Applicant tribal grower hona chahiye"
+  },
+  "Applicant must be a Uttarakhand resident": {
+   "hi": "आवेदक उत्तराखंड का निवासी होना चाहिए",
+   "hinglish": "Applicant Uttarakhand ka niwasi hona chahiye"
+  },
+  "Applicant must be an Assam resident": {
+   "hi": "आवेदक असम का निवासी होना चाहिए",
+   "hinglish": "Applicant Assam ka niwasi hona chahiye"
+  },
+  "Applicant must be in Tamil Nadu": {
+   "hi": "आवेदक तमिलनाडु में होना चाहिए",
+   "hinglish": "Applicant Tamil Nadu mein hona chahiye"
+  },
+  "Applicant must be in Uttarakhand": {
+   "hi": "आवेदक उत्तराखंड में होना चाहिए",
+   "hinglish": "Applicant Uttarakhand mein hona chahiye"
+  },
+  "Applicant must be interested in aromatic cultivation": {
+   "hi": "आवेदक की सुगंधित फसलों की खेती में रुचि होनी चाहिए",
+   "hinglish": "Applicant ki aromatic cultivation (sugandhit fasalon ki kheti) mein ruchi honi chahiye"
+  },
+  "Applicant must be older than 21 years": {
+   "hi": "आवेदक की आयु 21 वर्ष से अधिक होनी चाहिए",
+   "hinglish": "Applicant ki aayu 21 saal se zyada honi chahiye"
+  },
+  "Applicant must carry out agricultural activities in Goa": {
+   "hi": "आवेदक गोवा में कृषि गतिविधियां करता हो",
+   "hinglish": "Applicant Goa mein krishi gatividhiyan karta ho"
+  },
+  "Applicant must have a Krishi Card": {
+   "hi": "आवेदक के पास कृषि कार्ड (Krishi Card) होना चाहिए",
+   "hinglish": "Applicant ke paas Krishi Card hona chahiye"
+  },
+  "Applicant must have a live bank account": {
+   "hi": "आवेदक का बैंक खाता चालू (live) होना चाहिए",
+   "hinglish": "Applicant ka bank account chalu (live) hona chahiye"
+  },
+  "Applicant must have an insurable interest in the crop/land": {
+   "hi": "आवेदक का फसल/भूमि में बीमा योग्य हित होना चाहिए",
+   "hinglish": "Applicant ka fasal/zameen mein insurable interest (bima yogya hit) hona chahiye"
+  },
+  "Applicant must have cultivated for at least 3 consecutive years": {
+   "hi": "आवेदक ने कम से कम लगातार 3 वर्ष खेती की होनी चाहिए",
+   "hinglish": "Applicant ne kam se kam lagatar 3 saal kheti ki honi chahiye"
+  },
+  "Applicant must have disability of at least 40%": {
+   "hi": "आवेदक की दिव्यांगता कम से कम 40% होनी चाहिए",
+   "hinglish": "Applicant ki divyangta kam se kam 40% honi chahiye"
+  },
+  "Applicant must have own agricultural land or a lease of at least 10 years": {
+   "hi": "आवेदक के पास अपनी कृषि भूमि या कम से कम 10 वर्ष का पट्टा होना चाहिए",
+   "hinglish": "Applicant ke paas apni krishi bhoomi ya kam se kam 10 saal ka lease hona chahiye"
+  },
+  "Applicant must not be a former/current constitutional post holder": {
+   "hi": "आवेदक संवैधानिक पद का पूर्व/वर्तमान धारक नहीं होना चाहिए",
+   "hinglish": "Applicant kisi sanvaidhanik pad ka poorva/vartaman dhaarak nahi hona chahiye"
+  },
+  "Applicant must not be a practicing registered professional covered by the exclusion": {
+   "hi": "आवेदक अपवर्जन के अंतर्गत आने वाला प्रैक्टिस करने वाला पंजीकृत पेशेवर नहीं होना चाहिए",
+   "hinglish": "Applicant exclusion ke antargat aane wala practice karne wala registered professional nahi hona chahiye"
+  },
+  "Applicant must not be a specified superannuated pensioner receiving ₹10,000 or more per month": {
+   "hi": "आवेदक ₹10,000 या उससे अधिक मासिक पेंशन पाने वाला निर्दिष्ट सेवानिवृत्त पेंशनभोगी नहीं होना चाहिए",
+   "hinglish": "Applicant ₹10,000 ya usse zyada maasik pension paane wala nirdisht sevanivritt pensioner nahi hona chahiye"
+  },
+  "Applicant must not be an institutional land holder": {
+   "hi": "आवेदक संस्थागत भूमिधारक नहीं होना चाहिए",
+   "hinglish": "Applicant sansthagat bhoomidhaarak (institutional land holder) nahi hona chahiye"
+  },
+  "Applicant must not fall within the SC/ST exclusion stated for this scheme": {
+   "hi": "आवेदक इस योजना के लिए बताए गए SC/ST अपवर्जन के अंतर्गत नहीं आना चाहिए",
+   "hinglish": "Applicant is scheme ke liye bataye gaye SC/ST exclusion ke antargat nahi aana chahiye"
+  },
+  "Applicant must not fall within the specified former/current political office exclusions": {
+   "hi": "आवेदक निर्दिष्ट पूर्व/वर्तमान राजनीतिक पद संबंधी अपवर्जनों के अंतर्गत नहीं आना चाहिए",
+   "hinglish": "Applicant nirdisht poorva/vartaman rajnaitik pad se jude apvarjan (exclusions) mein nahi aana chahiye"
+  },
+  "Applicant must not fall within the specified government/public-body employee exclusion": {
+   "hi": "आवेदक निर्दिष्ट सरकारी/सार्वजनिक निकाय कर्मचारी अपवर्जन के अंतर्गत नहीं आना चाहिए",
+   "hinglish": "Applicant nirdisht sarkari/sarvajanik nikay karmchari apvarjan (exclusion) mein nahi aana chahiye"
+  },
+  "Applicant must not have been an income-tax payer in the last assessment year": {
+   "hi": "आवेदक पिछले आकलन वर्ष में आयकरदाता नहीं रहा होना चाहिए",
+   "hinglish": "Applicant pichhle assessment year mein income-tax payer nahi raha hona chahiye"
+  },
+  "Applicant or project must be covered by the project area/component": {
+   "hi": "आवेदक या परियोजना परियोजना-क्षेत्र/घटक के अंतर्गत आनी चाहिए",
+   "hinglish": "Applicant ya project, project-area/component ke antargat aani chahiye"
+  },
+  "Applicant should be a farmer or another farmer category covered by the applicable scheme guidelines.": {
+   "hi": "आवेदक किसान होना चाहिए या लागू योजना दिशानिर्देशों में शामिल कोई अन्य किसान श्रेणी का होना चाहिए।",
+   "hinglish": "Applicant farmer hona chahiye ya lagu scheme guidelines mein shamil koi anya farmer category ka hona chahiye."
+  },
+  "Applicant/implementing authority": {
+   "hi": "आवेदक/कार्यान्वयन प्राधिकरण",
+   "hinglish": "Applicant/implementing authority"
+  },
+  "Applicant/project must fall within Maharashtra project coverage": {
+   "hi": "आवेदक/परियोजना महाराष्ट्र की परियोजना कवरेज के भीतर होनी चाहिए",
+   "hinglish": "Applicant/project Maharashtra ki project coverage ke andar honi chahiye"
+  },
+  "Application declaration": {
+   "hi": "आवेदन घोषणा",
+   "hinglish": "Application ghoshna (declaration)"
+  },
+  "Application is collected by the prescribed AEA/local process and proceeds through GP/VDP-wise selection and DLC approval.": {
+   "hi": "आवेदन निर्धारित AEA/स्थानीय प्रक्रिया से एकत्र किया जाता है और GP/VDP-वार चयन व DLC की स्वीकृति से गुज़रता है।",
+   "hinglish": "Application nirdharit AEA/sthaniya process se ekatr kiya jaata hai aur GP/VDP-wise selection tatha DLC approval se guzarta hai."
+  },
+  "Application must be within the prescribed timeframe": {
+   "hi": "आवेदन निर्धारित समय-सीमा के भीतर होना चाहिए",
+   "hinglish": "Application nirdharit samay-seema ke andar hona chahiye"
+  },
+  "Application record": {
+   "hi": "आवेदन रिकॉर्ड",
+   "hinglish": "Application ka record"
+  },
+  "Application verification": {
+   "hi": "आवेदन का सत्यापन",
+   "hinglish": "Application ka verification"
+  },
+  "Application/identity record": {
+   "hi": "आवेदन/पहचान का रिकॉर्ड",
+   "hinglish": "Application/pehchaan ka record"
+  },
+  "Apply for service": {
+   "hi": "सेवा के लिए आवेदन करें",
+   "hinglish": "Service ke liye apply karein"
+  },
+  "Apply on I-Khedut": {
+   "hi": "I-Khedut पर आवेदन करें",
+   "hinglish": "I-Khedut par apply karein"
+  },
+  "Apply or register through the nearest Farmer Training Centre or Gram Sevak for the relevant activity.": {
+   "hi": "संबंधित गतिविधि के लिए निकटतम किसान प्रशिक्षण केंद्र या ग्राम सेवक के माध्यम से आवेदन या पंजीकरण करें।",
+   "hinglish": "Sambandhit activity ke liye nikatam Farmer Training Centre ya Gram Sevak ke zariye apply ya register karein."
+  },
+  "Apply through CAP channel": {
+   "hi": "CAP माध्यम से आवेदन करें",
+   "hinglish": "CAP channel se apply karein"
+  },
+  "Apply through I-Khedut and obtain pre-approval before purchasing the tractor.": {
+   "hi": "I-Khedut के माध्यम से आवेदन करें और ट्रैक्टर खरीदने से पहले पूर्व-स्वीकृति प्राप्त करें।",
+   "hinglish": "I-Khedut ke zariye apply karein aur tractor kharidne se pehle pre-approval prapt karein."
+  },
+  "Apply through the applicable online, offline or CSC channel within the prescribed timeframe.": {
+   "hi": "निर्धारित समय-सीमा के भीतर लागू ऑनलाइन, ऑफ़लाइन या CSC माध्यम से आवेदन करें।",
+   "hinglish": "Nirdharit samay-seema ke andar lagu online, offline ya CSC channel se apply karein."
+  },
+  "Apply through the nearest Agricultural Office using the prescribed group process.": {
+   "hi": "निर्धारित समूह प्रक्रिया के अनुसार निकटतम कृषि कार्यालय के माध्यम से आवेदन करें।",
+   "hinglish": "Nirdharit group process ke anusaar nikatam Krishi Karyalaya ke zariye apply karein."
+  },
+  "Apply through the prescribed channel": {
+   "hi": "निर्धारित माध्यम से आवेदन करें",
+   "hinglish": "Nirdharit channel se apply karein"
+  },
+  "Apply through the prescribed offline CAP/horticulture channel with land and identity records.": {
+   "hi": "भूमि और पहचान रिकॉर्ड के साथ निर्धारित ऑफ़लाइन CAP/बागवानी माध्यम से आवेदन करें।",
+   "hinglish": "Zameen aur pehchaan records ke saath nirdharit offline CAP/baagwani channel se apply karein."
+  },
+  "Apply within timeframe": {
+   "hi": "समय-सीमा के भीतर आवेदन करें",
+   "hinglish": "Samay-seema ke andar apply karein"
+  },
+  "Approved model design and estimates before installation": {
+   "hi": "स्थापना से पहले स्वीकृत मॉडल डिज़ाइन और अनुमान",
+   "hinglish": "Sthapna se pehle approved model design aur estimates"
+  },
+  "Approved model estimate for prefabricated plant": {
+   "hi": "प्रीफैब्रिकेटेड संयंत्र के लिए स्वीकृत मॉडल अनुमान",
+   "hinglish": "Prefabricated plant ke liye approved model estimate"
+  },
+  "Area must be suitable for coffee cultivation as assessed by Coffee Board officers": {
+   "hi": "कॉफी बोर्ड के अधिकारियों के आकलन के अनुसार क्षेत्र कॉफी की खेती के लिए उपयुक्त होना चाहिए",
+   "hinglish": "Coffee Board ke adhikariyon ke assessment ke anusaar area coffee ki kheti ke liye upyukt hona chahiye"
+  },
+  "Assam": {
+   "hi": "असम",
+   "hinglish": "Assam"
+  },
+  "Assam Agriculture Department": {
+   "hi": "असम कृषि विभाग",
+   "hinglish": "Assam Krishi Vibhag"
+  },
+  "Assistance for eligible farm-waste management and organic input interventions as described under the Development of Manures & Fertilizers scheme.": {
+   "hi": "उर्वरक एवं खाद विकास योजना के अंतर्गत वर्णित पात्र कृषि-अपशिष्ट प्रबंधन और जैविक निवेश हस्तक्षेपों के लिए सहायता।",
+   "hinglish": "Development of Manures & Fertilizers scheme ke antargat varnit patra farm-waste management aur organic input interventions ke liye sahayata."
+  },
+  "Assistance for eligible micro-irrigation investments, subject to state rules and beneficiary category.": {
+   "hi": "पात्र सूक्ष्म-सिंचाई निवेश के लिए सहायता, राज्य नियमों और लाभार्थी श्रेणी के अधीन।",
+   "hinglish": "Patra micro-irrigation investments ke liye sahayata, state niyamon aur beneficiary category ke adheen."
+  },
+  "Assistance maximum 5 ha/season": {
+   "hi": "सहायता अधिकतम 5 हेक्टेयर/मौसम",
+   "hinglish": "Sahayata adhiktam 5 hectare/season"
+  },
+  "At least 30% targeting for women is specified in the reviewed material.": {
+   "hi": "समीक्षित सामग्री में महिलाओं के लिए कम से कम 30% लक्ष्य निर्दिष्ट है।",
+   "hinglish": "Reviewed material mein mahilaon ke liye kam se kam 30% targeting specified hai."
+  },
+  "At least 30% women": {
+   "hi": "कम से कम 30% महिलाएं",
+   "hinglish": "Kam se kam 30% mahilayein"
+  },
+  "At least 33% of beneficiaries are small/marginal farmers.": {
+   "hi": "कम से कम 33% लाभार्थी लघु/सीमांत किसान हों।",
+   "hinglish": "Kam se kam 33% beneficiaries small/marginal farmers hon."
+  },
+  "At least 33% small/marginal farmers": {
+   "hi": "कम से कम 33% लघु/सीमांत किसान",
+   "hinglish": "Kam se kam 33% small/marginal farmers"
+  },
+  "Authorized dealer": {
+   "hi": "अधिकृत डीलर",
+   "hinglish": "Authorized dealer"
+  },
+  "Authorized manufacturer/dealer panel": {
+   "hi": "अधिकृत निर्माता/डीलर पैनल",
+   "hinglish": "Adhikrit nirmata/dealer panel"
+  },
+  "Bank account and IFSC details": {
+   "hi": "बैंक खाते और IFSC का विवरण",
+   "hinglish": "Bank account aur IFSC ki details"
+  },
+  "Bank account details": {
+   "hi": "बैंक खाते का विवरण",
+   "hinglish": "Bank account ki details"
+  },
+  "Bank details": {
+   "hi": "बैंक विवरण",
+   "hinglish": "Bank details"
+  },
+  "Bank/account verification": {
+   "hi": "बैंक/खाते का सत्यापन",
+   "hinglish": "Bank/account ka verification"
+  },
+  "Benefit rates and technical specifications must be confirmed with Goa Agriculture Department.": {
+   "hi": "लाभ की दरें और तकनीकी विनिर्देश गोवा कृषि विभाग से सुनिश्चित करें।",
+   "hinglish": "Benefit ki darein aur technical specifications Goa Krishi Vibhag se confirm karein."
+  },
+  "Benefit transfer": {
+   "hi": "लाभ का हस्तांतरण",
+   "hinglish": "Benefit ka transfer"
+  },
+  "Business/project proposal": {
+   "hi": "व्यवसाय/परियोजना प्रस्ताव",
+   "hinglish": "Business/project prastav"
+  },
+  "Cash invoice": {
+   "hi": "नकद बिल (कैश इनवॉइस)",
+   "hinglish": "Cash invoice"
+  },
+  "Caste certificate": {
+   "hi": "जाति प्रमाण पत्र",
+   "hinglish": "Jati praman patra"
+  },
+  "Certified land records/possession certificate": {
+   "hi": "प्रमाणित भूमि रिकॉर्ड/कब्ज़ा प्रमाण पत्र",
+   "hinglish": "Pramanit zameen records/kabza praman patra"
+  },
+  "Certified seed purchase support is subject to the applicable component limit; the reviewed specification notes a maximum of 2 ha/farmer/crop season.": {
+   "hi": "प्रमाणित बीज खरीद सहायता लागू घटक की सीमा के अधीन है; समीक्षित विनिर्देश में अधिकतम 2 हेक्टेयर/किसान/फसल मौसम का उल्लेख है।",
+   "hinglish": "Certified seed purchase support lagu component ki seema ke adheen hai; reviewed specification mein adhiktam 2 hectare/farmer/crop season ka ullekh hai."
+  },
+  "Check cluster coverage": {
+   "hi": "क्लस्टर कवरेज जांचें",
+   "hinglish": "Cluster coverage check karein"
+  },
+  "Check current scheme guidelines": {
+   "hi": "वर्तमान योजना दिशानिर्देश जांचें",
+   "hinglish": "Vartaman scheme guidelines check karein"
+  },
+  "Check registration or beneficiary status on the official PM-KISAN portal.": {
+   "hi": "आधिकारिक PM-KISAN पोर्टल पर पंजीकरण या लाभार्थी की स्थिति जांचें।",
+   "hinglish": "Official PM-KISAN portal par registration ya beneficiary status check karein."
+  },
+  "Check registration/status": {
+   "hi": "पंजीकरण/स्थिति जांचें",
+   "hinglish": "Registration/status check karein"
+  },
+  "Check the relevant NFSM component and state implementation conditions.": {
+   "hi": "संबंधित NFSM घटक और राज्य कार्यान्वयन की शर्तें जांचें।",
+   "hinglish": "Sambandhit NFSM component aur state implementation ki sharten check karein."
+  },
+  "Cluster and state-level approval may apply.": {
+   "hi": "क्लस्टर और राज्य-स्तरीय अनुमोदन लागू हो सकता है।",
+   "hinglish": "Cluster aur state-level approval lagu ho sakta hai."
+  },
+  "Coarse cereal demonstration.": {
+   "hi": "मोटे अनाज का प्रदर्शन।",
+   "hinglish": "Coarse cereal (motey anaaj) ka demonstration."
+  },
+  "Coffee Board, Department of Commerce, Ministry of Commerce and Industry": {
+   "hi": "कॉफी बोर्ड, वाणिज्य विभाग, वाणिज्य एवं उद्योग मंत्रालय",
+   "hinglish": "Coffee Board, Vanijya Vibhag, Vanijya evam Udyog Mantralaya"
+  },
+  "Collective irrigation is an eligible project type": {
+   "hi": "सामूहिक सिंचाई एक पात्र परियोजना प्रकार है",
+   "hinglish": "Samoohik sinchai (collective irrigation) ek patra project type hai"
+  },
+  "Collective project command area must be at least 5 hectares": {
+   "hi": "सामूहिक परियोजना का कमांड क्षेत्र कम से कम 5 हेक्टेयर होना चाहिए",
+   "hinglish": "Samoohik project ka command area kam se kam 5 hectare hona chahiye"
+  },
+  "Collective project groundwater category must be safe": {
+   "hi": "सामूहिक परियोजना की भूजल श्रेणी सुरक्षित (safe) होनी चाहिए",
+   "hinglish": "Samoohik project ki groundwater category safe honi chahiye"
+  },
+  "Complete application confirmation": {
+   "hi": "आवेदन की पुष्टि पूरी करें",
+   "hinglish": "Application confirmation poora karein"
+  },
+  "Complete eligibility, financial and technical review.": {
+   "hi": "पात्रता, वित्तीय और तकनीकी समीक्षा पूरी करें।",
+   "hinglish": "Eligibility, financial aur technical review poori karein."
+  },
+  "Complete project workflow": {
+   "hi": "परियोजना की प्रक्रिया पूरी करें",
+   "hinglish": "Project workflow poora karein"
+  },
+  "Complete required process": {
+   "hi": "आवश्यक प्रक्रिया पूरी करें",
+   "hinglish": "Zaroori process poori karein"
+  },
+  "Complete the applicable registration/application process through the prescribed channel.": {
+   "hi": "निर्धारित माध्यम से लागू पंजीकरण/आवेदन प्रक्रिया पूरी करें।",
+   "hinglish": "Nirdharit channel ke zariye lagu registration/application process poori karein."
+  },
+  "Complete the form and submit required documents to the Zonal Agriculture Officer.": {
+   "hi": "फ़ॉर्म भरकर आवश्यक दस्तावेज़ ज़ोनल कृषि अधिकारी को जमा करें।",
+   "hinglish": "Form bharkar zaroori documents Zonal Krishi Adhikari ko jama karein."
+  },
+  "Complete the Patwari damage/P-20 process.": {
+   "hi": "पटवारी नुकसान/P-20 प्रक्रिया पूरी करें।",
+   "hinglish": "Patwari nuksaan/P-20 process poori karein."
+  },
+  "Complete the prescribed Patwari/Tehsildar/SDM verification process.": {
+   "hi": "निर्धारित पटवारी/तहसीलदार/SDM सत्यापन प्रक्रिया पूरी करें।",
+   "hinglish": "Nirdharit Patwari/Tehsildar/SDM verification process poori karein."
+  },
+  "Complete the prescribed site inspection.": {
+   "hi": "निर्धारित स्थल निरीक्षण पूरा करें।",
+   "hinglish": "Nirdharit site inspection poora karein."
+  },
+  "Complete the required application confirmation/update before final submission; confirmed applications may not be editable.": {
+   "hi": "अंतिम जमा करने से पहले आवश्यक आवेदन पुष्टि/अपडेट पूरा करें; पुष्टि किए गए आवेदन संपादित नहीं हो सकते।",
+   "hinglish": "Final submission se pehle zaroori application confirmation/update poora karein; confirmed applications edit nahi ho sakte."
+  },
+  "Component-based support for eligible seed and planting-material activities.": {
+   "hi": "पात्र बीज और रोपण सामग्री गतिविधियों के लिए घटक-आधारित सहायता।",
+   "hinglish": "Patra beej aur planting-material activities ke liye component-based sahayata."
+  },
+  "Component-specific support subject to current MNRE and state implementation guidelines.": {
+   "hi": "घटक-विशेष सहायता, वर्तमान MNRE और राज्य कार्यान्वयन दिशानिर्देशों के अधीन।",
+   "hinglish": "Component-specific sahayata, vartaman MNRE aur state implementation guidelines ke adheen."
+  },
+  "Component-specific verification": {
+   "hi": "घटक-विशेष सत्यापन",
+   "hinglish": "Component ke hisaab se verification"
+  },
+  "Confirm details with District/Block Agriculture Officer.": {
+   "hi": "ज़िला/ब्लॉक कृषि अधिकारी से विवरण की पुष्टि करें।",
+   "hinglish": "Zila/Block Krishi Adhikari se details confirm karein."
+  },
+  "Confirm eligible cluster and intervention with the agriculture office.": {
+   "hi": "कृषि कार्यालय से पात्र क्लस्टर और हस्तक्षेप की पुष्टि करें।",
+   "hinglish": "Krishi karyalaya se patra cluster aur intervention ki pushti karein."
+  },
+  "Confirm eligible plant size and cost with the implementing authority.": {
+   "hi": "कार्यान्वयन प्राधिकरण से पात्र संयंत्र का आकार और लागत सुनिश्चित करें।",
+   "hinglish": "Implementing authority se patra plant ka size aur lagat confirm karein."
+  },
+  "Confirm eligible village/project coverage.": {
+   "hi": "पात्र गांव/परियोजना कवरेज की पुष्टि करें।",
+   "hinglish": "Patra gaon/project coverage confirm karein."
+  },
+  "Confirm identity requirements with the official implementing authority.": {
+   "hi": "पहचान संबंधी आवश्यकताओं की पुष्टि आधिकारिक कार्यान्वयन प्राधिकरण से करें।",
+   "hinglish": "Pehchaan sambandhi zarooraton ki pushti official implementing authority se karein."
+  },
+  "Confirm interest in aromatic cultivation.": {
+   "hi": "सुगंधित फसलों की खेती में अपनी रुचि की पुष्टि करें।",
+   "hinglish": "Aromatic cultivation mein apni ruchi confirm karein."
+  },
+  "Confirm notification": {
+   "hi": "अधिसूचना की पुष्टि करें",
+   "hinglish": "Notification confirm karein"
+  },
+  "Confirm qualifying loss": {
+   "hi": "योग्य हानि की पुष्टि",
+   "hinglish": "Yogya nuksaan ki pushti"
+  },
+  "Confirm scheme-specific documentation requirements.": {
+   "hi": "योजना-विशेष दस्तावेज़ों की आवश्यकताओं की पुष्टि करें।",
+   "hinglish": "Scheme-specific documents ki zarooraton ki pushti karein."
+  },
+  "Confirm that the crop and area are notified for the relevant season.": {
+   "hi": "पुष्टि करें कि संबंधित मौसम के लिए फसल और क्षेत्र अधिसूचित हैं।",
+   "hinglish": "Confirm karein ki sambandhit season ke liye fasal aur area notified hain."
+  },
+  "Confirm the applicable enrollment deadline.": {
+   "hi": "लागू नामांकन की अंतिम तिथि की पुष्टि करें।",
+   "hinglish": "Lagu enrolment ki antim tithi confirm karein."
+  },
+  "Confirm the current geographic/SMAM applicability condition.": {
+   "hi": "वर्तमान भौगोलिक/SMAM लागू होने की शर्त की पुष्टि करें।",
+   "hinglish": "Vartaman bhaugolik/SMAM applicability ki shart confirm karein."
+  },
+  "Confirm the precise beneficiary categories and local implementation rules with the official scheme authority.": {
+   "hi": "आधिकारिक योजना प्राधिकरण से लाभार्थी की सटीक श्रेणियों और स्थानीय कार्यान्वयन नियमों की पुष्टि करें।",
+   "hinglish": "Official scheme authority se beneficiary ki exact categories aur local implementation rules confirm karein."
+  },
+  "Contact": {
+   "hi": "संपर्क",
+   "hinglish": "Sampark (contact)"
+  },
+  "Contact Agricultural Office": {
+   "hi": "कृषि कार्यालय से संपर्क करें",
+   "hinglish": "Krishi Karyalaya se sampark karein"
+  },
+  "Contact agriculture office": {
+   "hi": "कृषि कार्यालय से संपर्क करें",
+   "hinglish": "Krishi Karyalaya se sampark karein"
+  },
+  "Contact soil testing facility": {
+   "hi": "मृदा परीक्षण सुविधा से संपर्क करें",
+   "hinglish": "Soil testing facility se sampark karein"
+  },
+  "Contact the District/Block Agriculture Officer to check village/cluster eligibility.": {
+   "hi": "ज़िला/ब्लॉक कृषि अधिकारी से संपर्क करके गांव/क्लस्टर की पात्रता जांचें।",
+   "hinglish": "Zila/Block Krishi Adhikari se sampark karke gaon/cluster ki eligibility check karein."
+  },
+  "Contact the District/Block Agriculture Officer to check whether the village or cluster is covered.": {
+   "hi": "ज़िला/ब्लॉक कृषि अधिकारी से संपर्क करके जांचें कि आपका गांव या क्लस्टर इसमें शामिल है या नहीं।",
+   "hinglish": "Zila/Block Krishi Adhikari se sampark karke check karein ki aapka gaon ya cluster is mein shamil hai ya nahi."
+  },
+  "Contact the local agriculture department for enrolment or soil testing.": {
+   "hi": "नामांकन या मिट्टी की जांच के लिए स्थानीय कृषि विभाग से संपर्क करें।",
+   "hinglish": "Enrolment ya mitti ki jaanch (soil testing) ke liye sthaniya krishi vibhag se sampark karein."
+  },
+  "Contact the local agriculture office or designated soil testing laboratory.": {
+   "hi": "स्थानीय कृषि कार्यालय या निर्धारित मृदा परीक्षण प्रयोगशाला से संपर्क करें।",
+   "hinglish": "Sthaniya krishi karyalaya ya nirdharit soil testing laboratory se sampark karein."
+  },
+  "Contact training centre/Gram Sevak": {
+   "hi": "प्रशिक्षण केंद्र/ग्राम सेवक से संपर्क करें",
+   "hinglish": "Training centre/Gram Sevak se sampark karein"
+  },
+  "Contact Zonal Agriculture Officer": {
+   "hi": "ज़ोनल कृषि अधिकारी से संपर्क करें",
+   "hinglish": "Zonal Krishi Adhikari se sampark karein"
+  },
+  "Cost estimates": {
+   "hi": "लागत अनुमान",
+   "hinglish": "Lagat anuman (Cost estimates)"
+  },
+  "Coverage may include standing crop, prevented sowing, prescribed post-harvest losses and localized calamities subject to applicable notification and conditions.": {
+   "hi": "कवरेज में खड़ी फसल, बुवाई में बाधा, निर्धारित कटाई-उपरांत हानि और स्थानीय आपदाएं शामिल हो सकती हैं, लागू अधिसूचना और शर्तों के अधीन।",
+   "hinglish": "Coverage mein khadi fasal, buvai mein badha (prevented sowing), nirdharit katai-uprant nuksaan aur sthaniya aapdayein shamil ho sakti hain, lagu notification aur sharton ke adheen."
+  },
+  "Create an account on the official Haryana Antyodaya-SARAL portal.": {
+   "hi": "हरियाणा के आधिकारिक Antyodaya-SARAL पोर्टल पर खाता बनाएं।",
+   "hinglish": "Haryana ke official Antyodaya-SARAL portal par account banayein."
+  },
+  "Crop and insurance details": {
+   "hi": "फसल और बीमा का विवरण",
+   "hinglish": "Fasal aur bima ki details"
+  },
+  "Crop damage must be at least 33%": {
+   "hi": "फसल को कम से कम 33% नुकसान होना चाहिए",
+   "hinglish": "Fasal ko kam se kam 33% nuksaan hona chahiye"
+  },
+  "Crop declaration": {
+   "hi": "फसल घोषणा",
+   "hinglish": "Fasal ghoshna (crop declaration)"
+  },
+  "Cropping system demonstration.": {
+   "hi": "फसल प्रणाली प्रदर्शन।",
+   "hinglish": "Cropping system ka demonstration."
+  },
+  "CSC": {
+   "hi": "CSC (कॉमन सर्विस सेंटर)",
+   "hinglish": "CSC (Common Service Centre)"
+  },
+  "Cultivable landholding information must be available": {
+   "hi": "जोतने योग्य भूमि की जानकारी उपलब्ध होनी चाहिए",
+   "hinglish": "Kheti yogya zameen ki jaankari available honi chahiye"
+  },
+  "Current official application contact should be verified.": {
+   "hi": "वर्तमान आधिकारिक आवेदन संपर्क सत्यापित करना चाहिए।",
+   "hinglish": "Vartaman official application contact verify karna chahiye."
+  },
+  "Current official implementing authority/source should be checked before application.": {
+   "hi": "आवेदन से पहले वर्तमान आधिकारिक कार्यान्वयन प्राधिकरण/स्रोत की जांच कर लें।",
+   "hinglish": "Application se pehle vartaman official implementing authority/source ki jaanch kar lein."
+  },
+  "Damage assessment": {
+   "hi": "नुकसान का आकलन",
+   "hinglish": "Nuksaan ka assessment"
+  },
+  "DBT": {
+   "hi": "DBT",
+   "hinglish": "DBT"
+  },
+  "Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers Welfare": {
+   "hi": "कृषि एवं किसान कल्याण विभाग, कृषि एवं किसान कल्याण मंत्रालय",
+   "hinglish": "Krishi evam Kisan Kalyan Vibhag, Krishi evam Kisan Kalyan Mantralaya"
+  },
+  "Department of Agriculture, Farmers Welfare & Co-operation, Gujarat": {
+   "hi": "कृषि, किसान कल्याण एवं सहकारिता विभाग, गुजरात",
+   "hinglish": "Krishi, Kisan Kalyan evam Sahkarita Vibhag, Gujarat"
+  },
+  "Department of Agriculture, Government of Goa": {
+   "hi": "कृषि विभाग, गोवा सरकार",
+   "hinglish": "Krishi Vibhag, Goa Sarkar"
+  },
+  "Department of Agriculture, Government of Maharashtra": {
+   "hi": "कृषि विभाग, महाराष्ट्र सरकार",
+   "hinglish": "Krishi Vibhag, Maharashtra Sarkar"
+  },
+  "Derived from the supplied document; verify current eligibility, benefit amounts and application process with the implementing authority.": {
+   "hi": "उपलब्ध कराए गए दस्तावेज़ से लिया गया; वर्तमान पात्रता, लाभ राशि और आवेदन प्रक्रिया कार्यान्वयन प्राधिकरण से सत्यापित करें।",
+   "hinglish": "Diye gaye document se liya gaya; vartaman eligibility, benefit amounts aur application process implementing authority se verify karein."
+  },
+  "Disability certificate": {
+   "hi": "दिव्यांगता प्रमाण पत्र",
+   "hinglish": "Divyangta praman patra"
+  },
+  "District meeting ₹20,000": {
+   "hi": "जिला बैठक ₹20,000",
+   "hinglish": "Zila meeting ₹20,000"
+  },
+  "District/Block Agriculture Office": {
+   "hi": "ज़िला/ब्लॉक कृषि कार्यालय",
+   "hinglish": "Zila/Block Krishi Karyalaya"
+  },
+  "District/Tehsil administration": {
+   "hi": "जिला/तहसील प्रशासन",
+   "hinglish": "Zila/Tehsil prashasan"
+  },
+  "DM approval and disbursement": {
+   "hi": "DM की स्वीकृति और वितरण",
+   "hinglish": "DM ki approval aur disbursement"
+  },
+  "DPR and technical approval": {
+   "hi": "DPR और तकनीकी स्वीकृति",
+   "hinglish": "DPR aur technical approval"
+  },
+  "DPR/financial documents": {
+   "hi": "DPR/वित्तीय दस्तावेज़",
+   "hinglish": "DPR/financial documents"
+  },
+  "Duplicate compensation must not be claimed for the same covered loss": {
+   "hi": "एक ही कवर की गई हानि के लिए दोहरा मुआवज़ा नहीं मांगा जाना चाहिए",
+   "hinglish": "Ek hi covered nuksaan ke liye duplicate compensation nahi maanga jaana chahiye"
+  },
+  "Eligibility cannot be confirmed from self-declared damage alone.": {
+   "hi": "केवल स्वयं-घोषित नुकसान के आधार पर पात्रता की पुष्टि नहीं की जा सकती।",
+   "hinglish": "Sirf self-declared nuksaan ke aadhar par eligibility confirm nahi ho sakti."
+  },
+  "Eligibility, benefits, notified areas, application windows and required documents depend on current official guidelines and state-level implementation.": {
+   "hi": "पात्रता, लाभ, अधिसूचित क्षेत्र, आवेदन की अवधि और आवश्यक दस्तावेज़ वर्तमान आधिकारिक दिशानिर्देशों और राज्य-स्तरीय कार्यान्वयन पर निर्भर करते हैं।",
+   "hinglish": "Eligibility, benefits, notified areas, application windows aur zaroori documents vartaman official guidelines aur state-level implementation par nirbhar karte hain."
+  },
+  "eligible expense": {
+   "hi": "पात्र व्यय",
+   "hinglish": "Patra kharch (eligible expense)"
+  },
+  "Eligible portable vermi-compost units may also be supported subject to unit and scheme limits.": {
+   "hi": "पात्र पोर्टेबल वर्मी-कम्पोस्ट इकाइयों को भी इकाई और योजना की सीमाओं के अधीन सहायता मिल सकती है।",
+   "hinglish": "Patra portable vermi-compost units ko bhi unit aur scheme ki seemaon ke adheen sahayata mil sakti hai."
+  },
+  "Eligible project villages in Maharashtra": {
+   "hi": "महाराष्ट्र के पात्र परियोजना गांव",
+   "hinglish": "Maharashtra ke patra project villages"
+  },
+  "Eligible rainfed clusters across India": {
+   "hi": "पूरे भारत के पात्र वर्षा-आधारित क्लस्टर",
+   "hinglish": "Poore India ke patra rainfed clusters"
+  },
+  "Empanelled tractor model": {
+   "hi": "सूचीबद्ध (empanelled) ट्रैक्टर मॉडल",
+   "hinglish": "Empanelled tractor ka model"
+  },
+  "Eri/mulberry/tussar ₹7,000/ha": {
+   "hi": "एरी/शहतूत/टसर ₹7,000/हेक्टेयर",
+   "hinglish": "Eri/mulberry/tussar ₹7,000/hectare"
+  },
+  "Estimates/invoices": {
+   "hi": "अनुमान/बिल",
+   "hinglish": "Anuman/bills (Estimates/invoices)"
+  },
+  "Exact document requirements vary by component and implementing channel.": {
+   "hi": "सटीक दस्तावेज़ों की आवश्यकता घटक और कार्यान्वयन माध्यम के अनुसार अलग-अलग होती है।",
+   "hinglish": "Exact documents ki zaroorat component aur implementing channel ke hisaab se alag-alag hoti hai."
+  },
+  "Exact supporting documents depend on project type.": {
+   "hi": "सहायक दस्तावेज़ परियोजना के प्रकार पर निर्भर करते हैं।",
+   "hinglish": "Supporting documents project ke type par nirbhar karte hain."
+  },
+  "Example component support: sole crop demonstration ₹9,000/ha excluding coarse cereals; cropping system demonstration ₹15,000/ha; coarse cereal demonstration ₹6,000/ha.": {
+   "hi": "घटक सहायता के उदाहरण: एकल फसल प्रदर्शन ₹9,000/हेक्टेयर (मोटे अनाज को छोड़कर); फसल प्रणाली प्रदर्शन ₹15,000/हेक्टेयर; मोटे अनाज का प्रदर्शन ₹6,000/हेक्टेयर।",
+   "hinglish": "Component support ke udaharan: sole crop demonstration ₹9,000/hectare (coarse cereals ko chhodkar); cropping system demonstration ₹15,000/hectare; coarse cereal demonstration ₹6,000/hectare."
+  },
+  "Family/application verification": {
+   "hi": "परिवार/आवेदन का सत्यापन",
+   "hinglish": "Parivar/application ka verification"
+  },
+  "Farm mechanization assistance subject to the applicable component, equipment and current limits.": {
+   "hi": "कृषि मशीनीकरण सहायता, लागू घटक, उपकरण और वर्तमान सीमाओं के अधीन।",
+   "hinglish": "Krishi machineekaran (farm mechanization) sahayata, lagu component, equipment aur vartaman seemaon ke adheen."
+  },
+  "Farmer": {
+   "hi": "किसान",
+   "hinglish": "Farmer"
+  },
+  "Farmer group": {
+   "hi": "किसान समूह",
+   "hinglish": "Kisan group"
+  },
+  "Farmer group must have at least 15 farmers": {
+   "hi": "किसान समूह में कम से कम 15 किसान होने चाहिए",
+   "hinglish": "Farmer group mein kam se kam 15 farmers hone chahiye"
+  },
+  "Farmer identity/contact details": {
+   "hi": "किसान की पहचान/संपर्क विवरण",
+   "hinglish": "Farmer ki pehchaan/sampark details"
+  },
+  "Farmer premium is capped at 2% for Kharif food/oilseed crops, 1.5% for Rabi food/oilseed crops and 5% for annual commercial/horticultural crops, subject to applicable rules.": {
+   "hi": "किसान का प्रीमियम खरीफ खाद्य/तिलहन फसलों के लिए 2%, रबी खाद्य/तिलहन फसलों के लिए 1.5% और वार्षिक वाणिज्यिक/बागवानी फसलों के लिए 5% तक सीमित है, लागू नियमों के अधीन।",
+   "hinglish": "Farmer ka premium Kharif khadya/tilhan fasalon ke liye 2%, Rabi khadya/tilhan fasalon ke liye 1.5% aur saalana vyavsayik/baagwani fasalon ke liye 5% tak seemit hai, lagu niyamon ke adheen."
+  },
+  "farmer premium rate": {
+   "hi": "किसान प्रीमियम दर",
+   "hinglish": "Farmer premium dar"
+  },
+  "Farmer Training Centre": {
+   "hi": "किसान प्रशिक्षण केंद्र",
+   "hinglish": "Kisan Prashikshan Kendra (Farmer Training Centre)"
+  },
+  "Farmer verification": {
+   "hi": "किसान का सत्यापन",
+   "hinglish": "Farmer ka verification"
+  },
+  "Farmer/community/local body": {
+   "hi": "किसान/समुदाय/स्थानीय निकाय",
+   "hinglish": "Kisan/samuday/sthaniya nikay"
+  },
+  "Farmer/implementing authority": {
+   "hi": "किसान/कार्यान्वयन प्राधिकरण",
+   "hinglish": "Kisan/implementing authority"
+  },
+  "Farmer/implementing channel": {
+   "hi": "किसान/कार्यान्वयन माध्यम",
+   "hinglish": "Kisan/implementing channel"
+  },
+  "Farmer/implementing department": {
+   "hi": "किसान/कार्यान्वयन विभाग",
+   "hinglish": "Kisan/implementing department"
+  },
+  "Farmer/land verification": {
+   "hi": "किसान/भूमि का सत्यापन",
+   "hinglish": "Farmer/zameen ka verification"
+  },
+  "Farmer/land/tenancy records, where applicable": {
+   "hi": "किसान/भूमि/काश्तकारी के रिकॉर्ड, जहां लागू हों",
+   "hinglish": "Farmer/zameen/tenancy ke records, jahan lagu hon"
+  },
+  "Farmer/local agriculture officials": {
+   "hi": "किसान/स्थानीय कृषि अधिकारी",
+   "hinglish": "Farmer/sthaniya krishi adhikari"
+  },
+  "Farmer/local revenue officials": {
+   "hi": "किसान/स्थानीय राजस्व अधिकारी",
+   "hinglish": "Farmer/sthaniya rajasva adhikari"
+  },
+  "Farmer/youth applicant": {
+   "hi": "किसान/युवा आवेदक",
+   "hinglish": "Kisan/yuva applicant"
+  },
+  "Financing and eligible interest support as defined by current AIF guidelines.": {
+   "hi": "वर्तमान AIF दिशानिर्देशों के अनुसार वित्तपोषण और पात्र ब्याज सहायता।",
+   "hinglish": "Vartaman AIF guidelines ke anusaar financing aur patra byaaj sahayata (interest support)."
+  },
+  "Follow pre-sanction, implementation, payment request and disbursement steps.": {
+   "hi": "पूर्व-स्वीकृति, क्रियान्वयन, भुगतान अनुरोध और वितरण के चरणों का पालन करें।",
+   "hinglish": "Pre-sanction, implementation, payment request aur disbursement ke steps ka paalan karein."
+  },
+  "Follow the prescribed soil-sampling and submission process.": {
+   "hi": "निर्धारित मृदा-नमूना लेने और जमा करने की प्रक्रिया का पालन करें।",
+   "hinglish": "Nirdharit soil-sampling aur jama karne ki process ka paalan karein."
+  },
+  "Follow the state-approved project and implementing agency process.": {
+   "hi": "राज्य-स्वीकृत परियोजना और कार्यान्वयन एजेंसी की प्रक्रिया का पालन करें।",
+   "hinglish": "State-approved project aur implementing agency ki process ka paalan karein."
+  },
+  "Follow-up camps": {
+   "hi": "अनुवर्ती शिविर",
+   "hinglish": "Follow-up camps (anuvarti shivir)"
+  },
+  "For tractors above 40 and up to 60 PTO HP.": {
+   "hi": "40 से अधिक और 60 PTO HP तक के ट्रैक्टरों के लिए।",
+   "hinglish": "40 se zyada aur 60 PTO HP tak ke tractors ke liye."
+  },
+  "For tractors up to 40 PTO HP.": {
+   "hi": "40 PTO HP तक के ट्रैक्टरों के लिए।",
+   "hinglish": "40 PTO HP tak ke tractors ke liye."
+  },
+  "Form or verify a qualifying farmer group.": {
+   "hi": "योग्य किसान समूह बनाएं या सत्यापित करवाएं।",
+   "hinglish": "Yogya farmer group banayein ya verify karwayein."
+  },
+  "FPO/group registration": {
+   "hi": "FPO/समूह पंजीकरण",
+   "hinglish": "FPO/group ka registration"
+  },
+  "Free seeds/planting material": {
+   "hi": "निःशुल्क बीज/रोपण सामग्री",
+   "hinglish": "Muft beej/ropan samagri (planting material)"
+  },
+  "Goa": {
+   "hi": "गोवा",
+   "hinglish": "Goa"
+  },
+  "Government ID": {
+   "hi": "सरकारी पहचान पत्र",
+   "hinglish": "Sarkari pehchaan patra (Government ID)"
+  },
+  "Government photo ID": {
+   "hi": "सरकारी फोटो पहचान पत्र",
+   "hinglish": "Sarkari photo ID"
+  },
+  "Government sanction": {
+   "hi": "सरकारी स्वीकृति",
+   "hinglish": "Sarkari sanction"
+  },
+  "Gram Sabha/Panchayat proposal": {
+   "hi": "ग्राम सभा/पंचायत का प्रस्ताव",
+   "hinglish": "Gram Sabha/Panchayat ka prastav"
+  },
+  "Gram Sevak": {
+   "hi": "ग्राम सेवक",
+   "hinglish": "Gram Sevak"
+  },
+  "Group registration": {
+   "hi": "समूह पंजीकरण",
+   "hinglish": "Group ka registration"
+  },
+  "group support": {
+   "hi": "समूह सहायता",
+   "hinglish": "Group sahayata"
+  },
+  "Group verification": {
+   "hi": "समूह का सत्यापन",
+   "hinglish": "Group ka verification"
+  },
+  "Gujarat": {
+   "hi": "गुजरात",
+   "hinglish": "Gujarat"
+  },
+  "Haryana": {
+   "hi": "हरियाणा",
+   "hinglish": "Haryana"
+  },
+  "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam": {
+   "hi": "हरियाणा पिछड़ा वर्ग एवं आर्थिक रूप से कमज़ोर वर्ग कल्याण निगम",
+   "hinglish": "Haryana Pichhda Varg evam Aarthik roop se Kamzor Varg Kalyan Nigam"
+  },
+  "Haryana domicile certificate": {
+   "hi": "हरियाणा अधिवास (domicile) प्रमाण पत्र",
+   "hinglish": "Haryana domicile praman patra"
+  },
+  "Horticulture / CAP Selaqui": {
+   "hi": "बागवानी / CAP सेलाकुई",
+   "hinglish": "Baagwani / CAP Selaqui"
+  },
+  "I-Khedut": {
+   "hi": "I-Khedut",
+   "hinglish": "I-Khedut"
+  },
+  "ID card ₹400": {
+   "hi": "पहचान पत्र ₹400",
+   "hinglish": "ID card ₹400"
+  },
+  "Identify applicable component": {
+   "hi": "लागू घटक की पहचान करें",
+   "hinglish": "Lagu component pehchanein"
+  },
+  "Identity": {
+   "hi": "पहचान",
+   "hinglish": "Pehchaan"
+  },
+  "Identity and address proof": {
+   "hi": "पहचान और पते का प्रमाण",
+   "hinglish": "Pehchaan aur pate ka praman"
+  },
+  "Identity and farmer/group registration documents": {
+   "hi": "पहचान और किसान/समूह पंजीकरण के दस्तावेज़",
+   "hinglish": "Pehchaan aur farmer/group registration ke documents"
+  },
+  "Identity proof": {
+   "hi": "पहचान पत्र",
+   "hinglish": "Pehchaan patra (Identity proof)"
+  },
+  "Identity verification": {
+   "hi": "पहचान का सत्यापन",
+   "hinglish": "Pehchaan ka verification"
+  },
+  "Implementing authority": {
+   "hi": "कार्यान्वयन प्राधिकरण",
+   "hinglish": "Implementing authority"
+  },
+  "Individual groundwater irrigation is an eligible project type": {
+   "hi": "व्यक्तिगत भूजल सिंचाई एक पात्र परियोजना प्रकार है",
+   "hinglish": "Vyaktigat bhujal sinchai (individual groundwater irrigation) ek patra project type hai"
+  },
+  "Infrastructure or marketing support under eligible components and approved projects.": {
+   "hi": "पात्र घटकों और स्वीकृत परियोजनाओं के अंतर्गत अवसंरचना या विपणन सहायता।",
+   "hinglish": "Patra components aur approved projects ke antargat infrastructure ya marketing sahayata."
+  },
+  "Inspection and scrutiny": {
+   "hi": "निरीक्षण और जांच",
+   "hinglish": "Inspection aur scrutiny"
+  },
+  "Insurable interest/tenure verification": {
+   "hi": "बीमा योग्य हित/काश्तकारी का सत्यापन",
+   "hinglish": "Insurable interest/tenure ka verification"
+  },
+  "Intended for farmers": {
+   "hi": "किसानों के लिए",
+   "hinglish": "Kisanon ke liye"
+  },
+  "KCC holder status is described as eligible to apply in the reviewed material": {
+   "hi": "समीक्षित सामग्री में KCC धारक की स्थिति को आवेदन के लिए पात्र बताया गया है",
+   "hinglish": "Reviewed material mein KCC holder ki sthiti ko apply karne ke liye patra bataya gaya hai"
+  },
+  "Krishi Card abstract": {
+   "hi": "कृषि कार्ड का सार (abstract)",
+   "hinglish": "Krishi Card abstract"
+  },
+  "krishiAssist.docx": {
+   "hi": "krishiAssist.docx",
+   "hinglish": "krishiAssist.docx"
+  },
+  "krishiAssist.docx provided by user": {
+   "hi": "उपयोगकर्ता द्वारा उपलब्ध कराया गया krishiAssist.docx",
+   "hinglish": "User dwara diya gaya krishiAssist.docx"
+  },
+  "Krishimela": {
+   "hi": "कृषि मेला",
+   "hinglish": "Krishimela"
+  },
+  "Land access verification": {
+   "hi": "भूमि तक पहुंच का सत्यापन",
+   "hinglish": "Zameen tak pahunch ka verification"
+  },
+  "Land documents": {
+   "hi": "भूमि के दस्तावेज़",
+   "hinglish": "Zameen ke documents"
+  },
+  "Land evidence": {
+   "hi": "भूमि का प्रमाण",
+   "hinglish": "Bhoomi ka praman"
+  },
+  "Land or asset records": {
+   "hi": "भूमि या संपत्ति के रिकॉर्ड",
+   "hinglish": "Zameen ya sampatti ke records"
+  },
+  "Land or field details": {
+   "hi": "भूमि या खेत का विवरण",
+   "hinglish": "Zameen ya khet ki details"
+  },
+  "Land ownership evidence": {
+   "hi": "भूमि स्वामित्व का प्रमाण",
+   "hinglish": "Bhoomi swamitva ka praman"
+  },
+  "Land ownership proof": {
+   "hi": "भूमि स्वामित्व का प्रमाण",
+   "hinglish": "Bhoomi swamitva ka praman"
+  },
+  "Land records": {
+   "hi": "भूमि रिकॉर्ड",
+   "hinglish": "Zameen records"
+  },
+  "Land/tenure documents": {
+   "hi": "भूमि/काश्तकारी के दस्तावेज़",
+   "hinglish": "Zameen/tenure ke documents"
+  },
+  "Landholding papers": {
+   "hi": "भूमि स्वामित्व के कागज़ात",
+   "hinglish": "Zameen ke malikana haq ke kagaz (landholding papers)"
+  },
+  "Landholding verification": {
+   "hi": "भूमि स्वामित्व का सत्यापन",
+   "hinglish": "Landholding ka verification"
+  },
+  "Lease evidence": {
+   "hi": "पट्टे का प्रमाण",
+   "hinglish": "Lease ka praman"
+  },
+  "Loan approval is subject to eligibility verification and appraisal.": {
+   "hi": "ऋण की स्वीकृति पात्रता के सत्यापन और मूल्यांकन के अधीन है।",
+   "hinglish": "Loan ki approval eligibility verification aur appraisal ke adheen hai."
+  },
+  "Loans up to ₹10,00,000 for eligible agricultural activities, subject to loan appraisal and programme rules.": {
+   "hi": "पात्र कृषि गतिविधियों के लिए ₹10,00,000 तक का ऋण, ऋण मूल्यांकन और कार्यक्रम नियमों के अधीन।",
+   "hinglish": "Patra krishi activities ke liye ₹10,00,000 tak ka loan, loan appraisal aur programme niyamon ke adheen."
+  },
+  "Local agriculture department / designated soil testing laboratory": {
+   "hi": "स्थानीय कृषि विभाग / निर्धारित मृदा परीक्षण प्रयोगशाला",
+   "hinglish": "Sthaniya krishi vibhag / nirdharit mrida parikshan prayogshala (soil testing laboratory)"
+  },
+  "Local GP/VDP-wise process and DLC approval": {
+   "hi": "स्थानीय GP/VDP-वार प्रक्रिया और DLC (जिला स्तरीय समिति) की स्वीकृति",
+   "hinglish": "Sthaniya GP/VDP-wise process aur DLC (District Level Committee) ki approval"
+  },
+  "Log in, find the scheme under available services, complete the form and upload documents.": {
+   "hi": "लॉग इन करें, उपलब्ध सेवाओं में योजना खोजें, फ़ॉर्म भरें और दस्तावेज़ अपलोड करें।",
+   "hinglish": "Login karein, available services mein scheme dhoondhein, form bharein aur documents upload karein."
+  },
+  "Machinery assistance or custom-hiring support subject to current guidelines and state allocation.": {
+   "hi": "मशीनरी सहायता या कस्टम-हायरिंग सहायता, वर्तमान दिशानिर्देशों और राज्य आवंटन के अधीन।",
+   "hinglish": "Machinery sahayata ya custom-hiring sahayata, vartaman guidelines aur state allocation ke adheen."
+  },
+  "Matching grants/back-ended subsidies for eligible farm investments.": {
+   "hi": "पात्र कृषि निवेशों के लिए मैचिंग अनुदान/बैक-एंडेड सब्सिडी।",
+   "hinglish": "Patra krishi nivesh ke liye matching grants/back-ended subsidies."
+  },
+  "Matching-grant support for eligible agribusiness/value-chain proposals, subject to project conditions and approval.": {
+   "hi": "पात्र कृषि-व्यवसाय/वैल्यू-चेन प्रस्तावों के लिए मैचिंग-अनुदान सहायता, परियोजना की शर्तों और स्वीकृति के अधीन।",
+   "hinglish": "Patra agribusiness/value-chain proposals ke liye matching-grant sahayata, project ki sharton aur approval ke adheen."
+  },
+  "Maximum farmer premium rates are 2% Kharif food/oilseed, 1.5% Rabi food/oilseed, and 5% annual commercial/horticultural crops.": {
+   "hi": "किसान के अधिकतम प्रीमियम की दरें: खरीफ खाद्य/तिलहन 2%, रबी खाद्य/तिलहन 1.5%, और वार्षिक वाणिज्यिक/बागवानी फसलें 5%।",
+   "hinglish": "Farmer ke adhiktam premium ki darein: Kharif khadya/tilhan 2%, Rabi khadya/tilhan 1.5%, aur saalana vyavsayik/baagwani fasalein 5%."
+  },
+  "Member list": {
+   "hi": "सदस्य सूची",
+   "hinglish": "Sadasya soochi (Member list)"
+  },
+  "Ministry of Agriculture & Farmers Welfare": {
+   "hi": "कृषि एवं किसान कल्याण मंत्रालय",
+   "hinglish": "Krishi evam Kisan Kalyan Mantralaya"
+  },
+  "Ministry of Agriculture and Farmers Welfare": {
+   "hi": "कृषि एवं किसान कल्याण मंत्रालय",
+   "hinglish": "Krishi evam Kisan Kalyan Mantralaya"
+  },
+  "Mobile number": {
+   "hi": "मोबाइल नंबर",
+   "hinglish": "Mobile number"
+  },
+  "Munga minimum ₹1,000; rate unspecified in reviewed material": {
+   "hi": "मूंगा न्यूनतम ₹1,000; समीक्षित सामग्री में दर निर्दिष्ट नहीं है",
+   "hinglish": "Munga minimum ₹1,000; reviewed material mein dar specified nahi hai"
+  },
+  "Natural calamity": {
+   "hi": "प्राकृतिक आपदा",
+   "hinglish": "Prakritik aapda"
+  },
+  "Nearest Agricultural Office": {
+   "hi": "निकटतम कृषि कार्यालय",
+   "hinglish": "Nikatam Krishi Karyalaya (Agricultural Office)"
+  },
+  "Notified crop and area": {
+   "hi": "अधिसूचित फसल और क्षेत्र",
+   "hinglish": "Notified fasal aur area"
+  },
+  "Obtain application form": {
+   "hi": "आवेदन फ़ॉर्म प्राप्त करें",
+   "hinglish": "Application form prapt karein"
+  },
+  "Obtain assessment from the Coffee Board.": {
+   "hi": "कॉफी बोर्ड से आकलन प्राप्त करें।",
+   "hinglish": "Coffee Board se assessment prapt karein."
+  },
+  "Obtain pre-approval": {
+   "hi": "पूर्व-स्वीकृति प्राप्त करें",
+   "hinglish": "Pre-approval prapt karein"
+  },
+  "Obtain pre-approval before purchasing the tractor.": {
+   "hi": "ट्रैक्टर खरीदने से पहले पूर्व-स्वीकृति प्राप्त करें।",
+   "hinglish": "Tractor kharidne se pehle pre-approval prapt karein."
+  },
+  "Obtain pre-sanction": {
+   "hi": "पूर्व-स्वीकृति प्राप्त करें",
+   "hinglish": "Pre-sanction prapt karein"
+  },
+  "Obtain project approval": {
+   "hi": "परियोजना की स्वीकृति प्राप्त करें",
+   "hinglish": "Project approval prapt karein"
+  },
+  "Obtain required pre-approval before procurement.": {
+   "hi": "खरीद से पहले आवश्यक पूर्व-स्वीकृति प्राप्त करें।",
+   "hinglish": "Kharid se pehle zaroori pre-approval prapt karein."
+  },
+  "Obtain the applicable groundwater-category verification.": {
+   "hi": "लागू भूजल-श्रेणी का सत्यापन प्राप्त करें।",
+   "hinglish": "Lagu groundwater-category ka verification prapt karein."
+  },
+  "Obtain the official crop-damage assessment.": {
+   "hi": "फसल नुकसान का आधिकारिक आकलन प्राप्त करें।",
+   "hinglish": "Fasal nuksaan ka official assessment prapt karein."
+  },
+  "Office equipment ₹5,000/group": {
+   "hi": "कार्यालय उपकरण ₹5,000/समूह",
+   "hinglish": "Office equipment ₹5,000/group (prati group)"
+  },
+  "Official crop damage assessment": {
+   "hi": "फसल नुकसान का आधिकारिक आकलन",
+   "hinglish": "Fasal nuksaan ka official assessment"
+  },
+  "Official damage assessment": {
+   "hi": "आधिकारिक नुकसान आकलन",
+   "hinglish": "Official nuksaan assessment"
+  },
+  "Official damage assessment must confirm the loss": {
+   "hi": "आधिकारिक नुकसान आकलन से हानि की पुष्टि होनी चाहिए",
+   "hinglish": "Official damage assessment se nuksaan ki pushti honi chahiye"
+  },
+  "Official NFSM scheme information": {
+   "hi": "आधिकारिक NFSM योजना जानकारी",
+   "hinglish": "Official NFSM scheme ki jaankari"
+  },
+  "Official PM-KISAN scheme information": {
+   "hi": "आधिकारिक PM-KISAN योजना जानकारी",
+   "hinglish": "Official PM-KISAN scheme ki jaankari"
+  },
+  "Official PMFBY scheme information": {
+   "hi": "आधिकारिक PMFBY योजना जानकारी",
+   "hinglish": "Official PMFBY scheme ki jaankari"
+  },
+  "Official portal or implementing department; confirm current channel": {
+   "hi": "आधिकारिक पोर्टल या कार्यान्वयन विभाग; वर्तमान माध्यम की पुष्टि करें",
+   "hinglish": "Official portal ya implementing department; vartaman channel confirm karein"
+  },
+  "Official scheme or government information portal": {
+   "hi": "आधिकारिक योजना या सरकारी सूचना पोर्टल",
+   "hinglish": "Official scheme ya sarkari soochna portal"
+  },
+  "Official scheme portal": {
+   "hi": "आधिकारिक योजना पोर्टल",
+   "hinglish": "Official scheme portal"
+  },
+  "Offline": {
+   "hi": "ऑफ़लाइन",
+   "hinglish": "Offline"
+  },
+  "Offline – Coffee Board Extension Office": {
+   "hi": "ऑफ़लाइन – कॉफी बोर्ड विस्तार कार्यालय",
+   "hinglish": "Offline – Coffee Board Extension Office"
+  },
+  "Offline – Zonal Agriculture Officer": {
+   "hi": "ऑफ़लाइन – ज़ोनल कृषि अधिकारी",
+   "hinglish": "Offline – Zonal Krishi Adhikari"
+  },
+  "One farmer per family": {
+   "hi": "प्रति परिवार एक किसान",
+   "hinglish": "Prati parivar ek farmer"
+  },
+  "Online": {
+   "hi": "ऑनलाइन",
+   "hinglish": "Online"
+  },
+  "Online project DBT portal": {
+   "hi": "ऑनलाइन परियोजना DBT पोर्टल",
+   "hinglish": "Online project DBT portal"
+  },
+  "Online – Antyodaya-SARAL": {
+   "hi": "ऑनलाइन – Antyodaya-SARAL",
+   "hinglish": "Online – Antyodaya-SARAL"
+  },
+  "Other supporting documents": {
+   "hi": "अन्य सहायक दस्तावेज़",
+   "hinglish": "Anya sahayak documents"
+  },
+  "Passbook": {
+   "hi": "पासबुक",
+   "hinglish": "Passbook"
+  },
+  "Passport photo": {
+   "hi": "पासपोर्ट फोटो",
+   "hinglish": "Passport photo"
+  },
+  "Patwari/Tehsil process": {
+   "hi": "पटवारी/तहसील प्रक्रिया",
+   "hinglish": "Patwari/Tehsil ki process"
+  },
+  "Pension benefit as prescribed by the current scheme guidelines.": {
+   "hi": "वर्तमान योजना दिशानिर्देशों के अनुसार निर्धारित पेंशन लाभ।",
+   "hinglish": "Vartaman scheme guidelines ke anusaar nirdharit pension benefit."
+  },
+  "per farmer": {
+   "hi": "प्रति किसान",
+   "hinglish": "Prati farmer"
+  },
+  "per hectare": {
+   "hi": "प्रति हेक्टेयर",
+   "hinglish": "Per hectare"
+  },
+  "Photo identity": {
+   "hi": "फोटो पहचान पत्र",
+   "hinglish": "Photo pehchaan patra (Photo identity)"
+  },
+  "Photograph": {
+   "hi": "फोटो",
+   "hinglish": "Photograph"
+  },
+  "Plant size depends on cattle/manure availability; the document states a lifetime maximum of three units.": {
+   "hi": "संयंत्र का आकार पशुओं/खाद की उपलब्धता पर निर्भर करता है; दस्तावेज़ में जीवनकाल में अधिकतम तीन इकाइयों का उल्लेख है।",
+   "hinglish": "Plant ka size pashuon/khaad ki uplabdhata par nirbhar karta hai; document mein jeevankaal mein adhiktam teen units ka ullekh hai."
+  },
+  "Planting material availability and applicable CAP conditions": {
+   "hi": "रोपण सामग्री की उपलब्धता और लागू CAP शर्तें",
+   "hinglish": "Planting material ki uplabdhata aur lagu CAP sharten"
+  },
+  "Possible integration of horticulture, livestock, fishery, apiculture, agroforestry and related activities, subject to local project design.": {
+   "hi": "बागवानी, पशुपालन, मत्स्य पालन, मधुमक्खी पालन, कृषि वानिकी और संबंधित गतिविधियों का संभावित एकीकरण, स्थानीय परियोजना डिज़ाइन के अधीन।",
+   "hinglish": "Baagwani, pashupalan, matsya palan, madhumakkhi palan, agroforestry aur sambandhit activities ka sambhavit integration, sthaniya project design ke adheen."
+  },
+  "Pre-approval before purchase": {
+   "hi": "खरीद से पहले पूर्व-स्वीकृति",
+   "hinglish": "Kharid se pehle pre-approval"
+  },
+  "Pre-approval must be obtained before purchase": {
+   "hi": "खरीद से पहले पूर्व-स्वीकृति प्राप्त होनी चाहिए",
+   "hinglish": "Kharid se pehle pre-approval mil jaani chahiye"
+  },
+  "Pre-season village camps": {
+   "hi": "मौसम से पहले के ग्राम शिविर",
+   "hinglish": "Season se pehle ke gaon ke camps (pre-season village camps)"
+  },
+  "Prepare the applicable group/FPO proposal through the project portal.": {
+   "hi": "परियोजना पोर्टल के माध्यम से लागू समूह/FPO प्रस्ताव तैयार करें।",
+   "hinglish": "Project portal ke zariye lagu group/FPO prastav taiyaar karein."
+  },
+  "Prepare the DPR and proceed through TAC/state committee review.": {
+   "hi": "DPR तैयार करें और TAC/राज्य समिति की समीक्षा की प्रक्रिया से गुज़रें।",
+   "hinglish": "DPR taiyaar karein aur TAC/state committee ki review process se guzarein."
+  },
+  "Prescribed application and self-declaration": {
+   "hi": "निर्धारित आवेदन और स्व-घोषणा",
+   "hinglish": "Nirdharit application aur self-declaration"
+  },
+  "Prescribed enrollment timeframe": {
+   "hi": "निर्धारित नामांकन समय-सीमा",
+   "hinglish": "Nirdharit enrolment samay-seema"
+  },
+  "Proceed after Government of India sanction and applicable approvals.": {
+   "hi": "भारत सरकार की स्वीकृति और लागू अनुमोदनों के बाद आगे बढ़ें।",
+   "hinglish": "Government of India ki sanction aur lagu approvals ke baad aage badhein."
+  },
+  "Proceed through prescribed Tehsildar and SDM verification.": {
+   "hi": "निर्धारित तहसीलदार और SDM सत्यापन की प्रक्रिया से गुज़रें।",
+   "hinglish": "Nirdharit Tehsildar aur SDM verification process se guzarein."
+  },
+  "Procure through authorized panel": {
+   "hi": "अधिकृत पैनल से खरीदें",
+   "hinglish": "Adhikrit panel se kharidein"
+  },
+  "Production/productivity support, technology and seed demonstrations, certified seed support, nutrient/pest management, water pipes, post-harvest technology and capacity building, subject to applicable component guidelines.": {
+   "hi": "उत्पादन/उत्पादकता सहायता, तकनीक और बीज प्रदर्शन, प्रमाणित बीज सहायता, पोषक तत्व/कीट प्रबंधन, पानी की पाइप, कटाई-उपरांत तकनीक और क्षमता निर्माण, लागू घटक दिशानिर्देशों के अधीन।",
+   "hinglish": "Production/productivity support, technology aur seed demonstrations, certified seed support, nutrient/pest management, paani ki pipe, katai-uprant technology aur capacity building, lagu component guidelines ke adheen."
+  },
+  "Project appraisal": {
+   "hi": "परियोजना का मूल्यांकन",
+   "hinglish": "Project ka appraisal"
+  },
+  "Project estimates/DPR": {
+   "hi": "परियोजना अनुमान/DPR",
+   "hinglish": "Project anuman/DPR"
+  },
+  "Project must be in eligible Maharashtra project coverage": {
+   "hi": "परियोजना महाराष्ट्र की पात्र परियोजना कवरेज में होनी चाहिए",
+   "hinglish": "Project Maharashtra ki patra project coverage mein honi chahiye"
+  },
+  "Project proposal/DPR documents": {
+   "hi": "परियोजना प्रस्ताव/DPR दस्तावेज़",
+   "hinglish": "Project proposal/DPR ke documents"
+  },
+  "Project-area, component and applicant-category conditions apply.": {
+   "hi": "परियोजना-क्षेत्र, घटक और आवेदक-श्रेणी की शर्तें लागू होती हैं।",
+   "hinglish": "Project-area, component aur applicant-category ki sharten lagu hoti hain."
+  },
+  "Project-based assistance through approved state and implementing-agency projects.": {
+   "hi": "स्वीकृत राज्य और कार्यान्वयन-एजेंसी परियोजनाओं के माध्यम से परियोजना-आधारित सहायता।",
+   "hinglish": "Approved state aur implementing-agency projects ke zariye project-based sahayata."
+  },
+  "Proposal review": {
+   "hi": "प्रस्ताव की समीक्षा",
+   "hinglish": "Prastav ki review"
+  },
+  "Provide age information for the relevant training category.": {
+   "hi": "संबंधित प्रशिक्षण श्रेणी के लिए आयु की जानकारी दें।",
+   "hinglish": "Sambandhit training category ke liye aayu ki jaankari dein."
+  },
+  "Provide evidence of the required cultivation history.": {
+   "hi": "खेती के आवश्यक इतिहास का प्रमाण दें।",
+   "hinglish": "Kheti ke zaroori itihaas ka praman dein."
+  },
+  "Provide field details and sample": {
+   "hi": "खेत का विवरण और नमूना दें",
+   "hinglish": "Khet ki details aur sample dein"
+  },
+  "Provide Haryana domicile proof.": {
+   "hi": "हरियाणा का अधिवास (domicile) प्रमाण दें।",
+   "hinglish": "Haryana ka domicile praman dein."
+  },
+  "Provide Krishi Card details.": {
+   "hi": "कृषि कार्ड का विवरण दें।",
+   "hinglish": "Krishi Card ki details dein."
+  },
+  "Provide land ownership or qualifying lease evidence.": {
+   "hi": "भूमि के स्वामित्व या योग्य पट्टे का प्रमाण दें।",
+   "hinglish": "Bhoomi ke malikana haq ya yogya lease ka praman dein."
+  },
+  "Provide or activate the bank account used for DBT.": {
+   "hi": "DBT के लिए उपयोग किया जाने वाला बैंक खाता उपलब्ध कराएं या चालू करवाएं।",
+   "hinglish": "DBT ke liye use hone wala bank account available karayein ya activate karwayein."
+  },
+  "Provide or verify the applicable ownership/tenure evidence.": {
+   "hi": "स्वामित्व/काश्तकारी का लागू प्रमाण दें या सत्यापित करवाएं।",
+   "hinglish": "Ownership/tenure ka lagu praman dein ya verify karwayein."
+  },
+  "Provide registration documents.": {
+   "hi": "पंजीकरण के दस्तावेज़ दें।",
+   "hinglish": "Registration ke documents dein."
+  },
+  "Provide the crop to be insured.": {
+   "hi": "जिस फसल का बीमा कराना है उसकी जानकारी दें।",
+   "hinglish": "Jis fasal ka bima karana hai uski jaankari dein."
+  },
+  "Provide valid disability certificate.": {
+   "hi": "वैध दिव्यांगता प्रमाण पत्र दें।",
+   "hinglish": "Valid divyangta praman patra dein."
+  },
+  "Purchase an empanelled model through an authorized dealer.": {
+   "hi": "अधिकृत डीलर के माध्यम से सूचीबद्ध (empanelled) मॉडल खरीदें।",
+   "hinglish": "Authorized dealer ke zariye empanelled model kharidein."
+  },
+  "Purchase eligible equipment through an authorized manufacturer/dealer in the applicable panel.": {
+   "hi": "लागू पैनल के अधिकृत निर्माता/डीलर से पात्र उपकरण खरीदें।",
+   "hinglish": "Lagu panel ke adhikrit nirmata/dealer se patra equipment kharidein."
+  },
+  "Purchase through authorized dealer": {
+   "hi": "अधिकृत डीलर से खरीदें",
+   "hinglish": "Authorized dealer se kharidein"
+  },
+  "Rainfed areas across India; implementation varies by state": {
+   "hi": "पूरे भारत के वर्षा-आधारित क्षेत्र; कार्यान्वयन राज्य के अनुसार अलग-अलग है",
+   "hinglish": "Poore India ke rainfed areas; implementation state ke hisaab se alag-alag hai"
+  },
+  "Ration card": {
+   "hi": "राशन कार्ड",
+   "hinglish": "Ration card"
+  },
+  "Receive results": {
+   "hi": "नतीजे प्राप्त करें",
+   "hinglish": "Results prapt karein"
+  },
+  "Register and prepare proposal": {
+   "hi": "पंजीकरण करें और प्रस्ताव तैयार करें",
+   "hinglish": "Register karein aur prastav taiyaar karein"
+  },
+  "Register on Antyodaya-SARAL": {
+   "hi": "Antyodaya-SARAL पर पंजीकरण करें",
+   "hinglish": "Antyodaya-SARAL par register karein"
+  },
+  "Register or access portal": {
+   "hi": "पंजीकरण करें या पोर्टल खोलें",
+   "hinglish": "Register karein ya portal access karein"
+  },
+  "Registered mason details": {
+   "hi": "पंजीकृत राजमिस्त्री का विवरण",
+   "hinglish": "Registered raajmistri (mason) ki details"
+  },
+  "Request the current scheme form and confirm the applicable component.": {
+   "hi": "वर्तमान योजना फ़ॉर्म मांगें और लागू घटक की पुष्टि करें।",
+   "hinglish": "Vartaman scheme form maangein aur lagu component confirm karein."
+  },
+  "Required where land is leased": {
+   "hi": "जहां भूमि पट्टे पर है वहां आवश्यक",
+   "hinglish": "Jahan zameen lease par hai wahan zaroori"
+  },
+  "Reservation noted in reviewed material: 7% SC, 10% ST(P), 5% ST(H).": {
+   "hi": "समीक्षित सामग्री में उल्लिखित आरक्षण: 7% SC, 10% ST(P), 5% ST(H)।",
+   "hinglish": "Reviewed material mein ullikhit reservation: 7% SC, 10% ST(P), 5% ST(H)."
+  },
+  "Reservation/benefit category where applicable": {
+   "hi": "आरक्षण/लाभ श्रेणी, जहां लागू हो",
+   "hinglish": "Reservation/benefit category, jahan lagu ho"
+  },
+  "Residence proof": {
+   "hi": "निवास प्रमाण",
+   "hinglish": "Niwas praman"
+  },
+  "Residency": {
+   "hi": "निवास",
+   "hinglish": "Niwas"
+  },
+  "Retain procurement proof.": {
+   "hi": "खरीद का प्रमाण संभालकर रखें।",
+   "hinglish": "Kharid ka praman sambhal kar rakhein."
+  },
+  "Revenue authorities": {
+   "hi": "राजस्व प्राधिकरण",
+   "hinglish": "Rajasva authorities"
+  },
+  "Review the official scheme portal and confirm current eligibility, benefits, documents and application dates.": {
+   "hi": "आधिकारिक योजना पोर्टल देखें और वर्तमान पात्रता, लाभ, दस्तावेज़ तथा आवेदन की तिथियों की पुष्टि करें।",
+   "hinglish": "Official scheme portal dekhein aur vartaman eligibility, benefits, documents tatha application dates confirm karein."
+  },
+  "Reviewed Aromatic Plants Cultivation – CAP material": {
+   "hi": "समीक्षित सुगंधित पौधे की खेती – CAP सामग्री",
+   "hinglish": "Review ki gayi Aromatic Plants Cultivation – CAP samagri"
+  },
+  "Reviewed Assam Mukhya Mantri Krishi Sa Sajuli Yojana material": {
+   "hi": "समीक्षित असम मुख्यमंत्री कृषि सा सजुली योजना सामग्री",
+   "hinglish": "Review ki gayi Assam Mukhya Mantri Krishi Sa Sajuli Yojana samagri"
+  },
+  "Reviewed Assam scheme material": {
+   "hi": "समीक्षित असम योजना सामग्री",
+   "hinglish": "Review ki gayi Assam scheme samagri"
+  },
+  "Reviewed CAP material": {
+   "hi": "समीक्षित CAP सामग्री",
+   "hinglish": "Review ki gayi CAP samagri"
+  },
+  "Reviewed Gujarat AGR-2 material": {
+   "hi": "समीक्षित गुजरात AGR-2 सामग्री",
+   "hinglish": "Review ki gayi Gujarat AGR-2 samagri"
+  },
+  "Reviewed Gujarat AGR-2 scheme information": {
+   "hi": "समीक्षित गुजरात AGR-2 योजना जानकारी",
+   "hinglish": "Review ki gayi Gujarat AGR-2 scheme ki jaankari"
+  },
+  "Reviewed Gujarat AGR-50 material": {
+   "hi": "समीक्षित गुजरात AGR-50 सामग्री",
+   "hinglish": "Review ki gayi Gujarat AGR-50 samagri"
+  },
+  "Reviewed Gujarat AGR-50 scheme information": {
+   "hi": "समीक्षित गुजरात AGR-50 योजना जानकारी",
+   "hinglish": "Review ki gayi Gujarat AGR-50 scheme ki jaankari"
+  },
+  "Reviewed Gujarat Agricultural Skill Development material": {
+   "hi": "समीक्षित गुजरात कृषि कौशल विकास सामग्री",
+   "hinglish": "Review ki gayi Gujarat Agricultural Skill Development samagri"
+  },
+  "Reviewed Gujarat Agricultural Skill Development Training material": {
+   "hi": "समीक्षित गुजरात कृषि कौशल विकास प्रशिक्षण सामग्री",
+   "hinglish": "Review ki gayi Gujarat Agricultural Skill Development Training samagri"
+  },
+  "Reviewed PMKSY process": {
+   "hi": "समीक्षित PMKSY प्रक्रिया",
+   "hinglish": "Review ki gayi PMKSY process"
+  },
+  "Reviewed Tamil Nadu Farmers Interest Group material": {
+   "hi": "समीक्षित तमिलनाडु किसान रुचि समूह सामग्री",
+   "hinglish": "Review ki gayi Tamil Nadu Farmers Interest Group samagri"
+  },
+  "Reviewed Tamil Nadu FIG material": {
+   "hi": "समीक्षित तमिलनाडु FIG सामग्री",
+   "hinglish": "Review ki gayi Tamil Nadu FIG samagri"
+  },
+  "Reviewed Uttarakhand Agricultural Investment Grant material": {
+   "hi": "समीक्षित उत्तराखंड कृषि निवेश अनुदान सामग्री",
+   "hinglish": "Review ki gayi Uttarakhand Agricultural Investment Grant samagri"
+  },
+  "Reviewed Uttarakhand crop damage grant material": {
+   "hi": "समीक्षित उत्तराखंड फसल नुकसान अनुदान सामग्री",
+   "hinglish": "Reviewed Uttarakhand fasal nuksaan anudaan material"
+  },
+  "Reviewed Uttarakhand PMKSY – Har Khet Ko Pani material": {
+   "hi": "उत्तराखंड PMKSY – हर खेत को पानी की समीक्षित सामग्री",
+   "hinglish": "Uttarakhand PMKSY – Har Khet Ko Pani ki reviewed material"
+  },
+  "Sanction and construction": {
+   "hi": "स्वीकृति और निर्माण",
+   "hinglish": "Sanction aur construction"
+  },
+  "Savings bank account details": {
+   "hi": "बचत बैंक खाते का विवरण",
+   "hinglish": "Savings bank account ki details"
+  },
+  "Seed material must be procured from the Coffee Board": {
+   "hi": "बीज सामग्री कॉफी बोर्ड से ही खरीदी जानी चाहिए",
+   "hinglish": "Beej samagri Coffee Board se hi kharidi jaani chahiye"
+  },
+  "Sericulture ₹6,000/ha": {
+   "hi": "रेशम कीट पालन (सेरीकल्चर) ₹6,000/हेक्टेयर",
+   "hinglish": "Sericulture ₹6,000/hectare"
+  },
+  "Sikkim / eligible North Eastern coffee-growing areas": {
+   "hi": "सिक्किम / पात्र पूर्वोत्तर कॉफी उत्पादक क्षेत्र",
+   "hinglish": "Sikkim / patra Poorvottar (North Eastern) coffee-growing areas"
+  },
+  "Single ₹5,000 installment.": {
+   "hi": "एकल ₹5,000 की किस्त।",
+   "hinglish": "Ek hi ₹5,000 ki kist."
+  },
+  "Site inspection": {
+   "hi": "स्थल निरीक्षण",
+   "hinglish": "Site inspection"
+  },
+  "Site inspection and DPR": {
+   "hi": "स्थल निरीक्षण और DPR",
+   "hinglish": "Site inspection aur DPR"
+  },
+  "Small/marginal farmer status requires verification because the reviewed material contains an ambiguity with the KCC eligibility statement": {
+   "hi": "लघु/सीमांत किसान की स्थिति सत्यापन मांगती है, क्योंकि समीक्षित सामग्री में KCC पात्रता कथन के साथ अस्पष्टता है",
+   "hinglish": "Small/marginal farmer status ko verification chahiye, kyonki reviewed material mein KCC eligibility statement ke saath ambiguity hai"
+  },
+  "Small/marginal farmer versus KCC wording is preserved as a verification condition rather than resolved by inference.": {
+   "hi": "लघु/सीमांत किसान बनाम KCC के शब्दांकन को अनुमान से सुलझाने के बजाय सत्यापन की शर्त के रूप में रखा गया है।",
+   "hinglish": "Small/marginal farmer versus KCC ke wording ko anuman se suljhane ke bajaye verification condition ke roop mein rakha gaya hai."
+  },
+  "Small/marginal/women farmers are priority/benefit tiers, not basic eligibility in the reviewed material.": {
+   "hi": "समीक्षित सामग्री में लघु/सीमांत/महिला किसान प्राथमिकता/लाभ के स्तर हैं, मूल पात्रता नहीं।",
+   "hinglish": "Reviewed material mein small/marginal/mahila farmers priority/benefit tiers hain, basic eligibility nahi."
+  },
+  "Soil Health Card": {
+   "hi": "मृदा स्वास्थ्य कार्ड",
+   "hinglish": "Soil Health Card"
+  },
+  "Soil Health Card with soil analysis results and fertilizer/soil amendment recommendations.": {
+   "hi": "मृदा विश्लेषण के नतीजों और उर्वरक/मृदा सुधारक की सिफारिशों के साथ मृदा स्वास्थ्य कार्ड।",
+   "hinglish": "Soil analysis ke results aur fertilizer/soil amendment recommendations ke saath Soil Health Card."
+  },
+  "Soil health information and nutrient recommendations through the scheme’s service network.": {
+   "hi": "योजना के सेवा नेटवर्क के माध्यम से मृदा स्वास्थ्य की जानकारी और पोषक तत्वों की सिफारिशें।",
+   "hinglish": "Scheme ke service network ke zariye soil health ki jaankari aur nutrient recommendations."
+  },
+  "Sole crop demonstration, excluding coarse cereals.": {
+   "hi": "एकल फसल प्रदर्शन, मोटे अनाज को छोड़कर।",
+   "hinglish": "Sole crop demonstration, coarse cereals ko chhodkar."
+  },
+  "Specified group-level support amounts apply to the respective activities.": {
+   "hi": "संबंधित गतिविधियों के लिए निर्दिष्ट समूह-स्तरीय सहायता राशि लागू होती है।",
+   "hinglish": "Sambandhit activities ke liye nirdisht group-level sahayata rashi lagu hoti hai."
+  },
+  "Specified Gujarat talukas; current SMAM status requires verification": {
+   "hi": "निर्दिष्ट गुजरात तालुका; SMAM की वर्तमान स्थिति का सत्यापन आवश्यक है",
+   "hinglish": "Nirdisht Gujarat taluka; SMAM ki vartaman sthiti ka verification zaroori hai"
+  },
+  "Specified taluka/geographic condition": {
+   "hi": "निर्दिष्ट तालुका/भौगोलिक शर्त",
+   "hinglish": "Nirdisht taluka/bhaugolik shart"
+  },
+  "State-level sharing workshop": {
+   "hi": "राज्य-स्तरीय साझाकरण कार्यशाला",
+   "hinglish": "State-level sharing workshop"
+  },
+  "State/component dependent": {
+   "hi": "राज्य/घटक पर निर्भर",
+   "hinglish": "State/component par nirbhar"
+  },
+  "State/implementing agriculture department": {
+   "hi": "राज्य/कार्यान्वयन कृषि विभाग",
+   "hinglish": "State/implementing krishi vibhag"
+  },
+  "Step 1": {
+   "hi": "चरण 1",
+   "hinglish": "Step 1"
+  },
+  "Step 2": {
+   "hi": "चरण 2",
+   "hinglish": "Step 2"
+  },
+  "Step 3": {
+   "hi": "चरण 3",
+   "hinglish": "Step 3"
+  },
+  "Subject to current scheme guidelines, approvals and local implementation.": {
+   "hi": "वर्तमान योजना दिशानिर्देशों, अनुमोदनों और स्थानीय कार्यान्वयन के अधीन।",
+   "hinglish": "Vartaman scheme guidelines, approvals aur sthaniya implementation ke adheen."
+  },
+  "Submit application": {
+   "hi": "आवेदन जमा करें",
+   "hinglish": "Application jama karein"
+  },
+  "Submit completion/payment request": {
+   "hi": "कार्य-पूर्णता/भुगतान का अनुरोध जमा करें",
+   "hinglish": "Kaam-poornata/payment request jama karein"
+  },
+  "Submit documents": {
+   "hi": "दस्तावेज़ जमा करें",
+   "hinglish": "Documents jama karein"
+  },
+  "Submit first-installment claim": {
+   "hi": "पहली किस्त का दावा जमा करें",
+   "hinglish": "Pehli kist ka claim jama karein"
+  },
+  "Submit second-installment claim": {
+   "hi": "दूसरी किस्त का दावा जमा करें",
+   "hinglish": "Doosri kist ka claim jama karein"
+  },
+  "Submit the applicable application through I-Khedut.": {
+   "hi": "I-Khedut के माध्यम से लागू आवेदन जमा करें।",
+   "hinglish": "I-Khedut ke zariye lagu application jama karein."
+  },
+  "Submit the applicable claim during the second year, subject to programme conditions.": {
+   "hi": "कार्यक्रम की शर्तों के अधीन, दूसरे वर्ष में लागू दावा जमा करें।",
+   "hinglish": "Programme ki sharton ke adheen, doosre saal mein lagu claim jama karein."
+  },
+  "Submit the application and required supporting documents.": {
+   "hi": "आवेदन और आवश्यक सहायक दस्तावेज़ जमा करें।",
+   "hinglish": "Application aur zaroori sahayak documents jama karein."
+  },
+  "Submit the proposal through the prescribed local process.": {
+   "hi": "निर्धारित स्थानीय प्रक्रिया से प्रस्ताव जमा करें।",
+   "hinglish": "Nirdharit sthaniya process se prastav jama karein."
+  },
+  "Submit the signed application and required estimates/documents.": {
+   "hi": "हस्ताक्षरित आवेदन और आवश्यक अनुमान/दस्तावेज़ जमा करें।",
+   "hinglish": "Hastaakshrit application aur zaroori estimates/documents jama karein."
+  },
+  "Submit the tractor assistance application through I-Khedut.": {
+   "hi": "I-Khedut के माध्यम से ट्रैक्टर सहायता का आवेदन जमा करें।",
+   "hinglish": "I-Khedut ke zariye tractor sahayata ka application jama karein."
+  },
+  "Submit the work-completion and payment request through the prescribed workflow.": {
+   "hi": "निर्धारित प्रक्रिया से कार्य-पूर्णता और भुगतान का अनुरोध जमा करें।",
+   "hinglish": "Nirdharit process se kaam-poornata aur payment ka request jama karein."
+  },
+  "Submit through local agriculture process": {
+   "hi": "स्थानीय कृषि प्रक्रिया से आवेदन जमा करें",
+   "hinglish": "Sthaniya krishi process se application jama karein"
+  },
+  "Submit through project process": {
+   "hi": "परियोजना प्रक्रिया से जमा करें",
+   "hinglish": "Project process se jama karein"
+  },
+  "Subsidy claims are released in installments after verification and inspection.": {
+   "hi": "सत्यापन और निरीक्षण के बाद सब्सिडी के दावे किस्तों में जारी किए जाते हैं।",
+   "hinglish": "Verification aur inspection ke baad subsidy claims kiston mein jaari kiye jaate hain."
+  },
+  "Support and training as specified by current mission guidelines and state implementation.": {
+   "hi": "वर्तमान मिशन दिशानिर्देशों और राज्य कार्यान्वयन के अनुसार सहायता एवं प्रशिक्षण।",
+   "hinglish": "Vartaman mission guidelines aur state implementation ke anusaar sahayata evam training."
+  },
+  "Support for eligible cluster-based organic farming activities under current guidelines.": {
+   "hi": "वर्तमान दिशानिर्देशों के अंतर्गत पात्र क्लस्टर-आधारित जैविक खेती गतिविधियों के लिए सहायता।",
+   "hinglish": "Vartaman guidelines ke antargat patra cluster-based organic farming activities ke liye sahayata."
+  },
+  "Support for integrated farming systems and climate-risk mitigation.": {
+   "hi": "एकीकृत कृषि प्रणालियों और जलवायु-जोखिम में कमी के लिए सहायता।",
+   "hinglish": "Integrated farming systems aur climate-risk mitigation ke liye sahayata."
+  },
+  "Support may cover polyhouses, poly tunnels, drip/sprinkler irrigation, farm ponds, climate-resilient seed production and eligible farmer-group/FPO proposals.": {
+   "hi": "सहायता में पॉलीहाउस, पॉली टनल, ड्रिप/स्प्रिंकलर सिंचाई, कृषि तालाब, जलवायु-अनुकूल बीज उत्पादन और पात्र किसान-समूह/FPO प्रस्ताव शामिल हो सकते हैं।",
+   "hinglish": "Sahayata mein polyhouse, poly tunnel, drip/sprinkler irrigation, farm ponds, climate-resilient seed production aur patra farmer-group/FPO proposals shamil ho sakte hain."
+  },
+  "Support up to 5 Nali (approximately 0.1 ha)": {
+   "hi": "5 नाली (लगभग 0.1 हेक्टेयर) तक सहायता",
+   "hinglish": "5 Nali (lagbhag 0.1 hectare) tak sahayata"
+  },
+  "Tamil Nadu": {
+   "hi": "तमिलनाडु",
+   "hinglish": "Tamil Nadu"
+  },
+  "Technical review": {
+   "hi": "तकनीकी समीक्षा",
+   "hinglish": "Technical review"
+  },
+  "Technical support": {
+   "hi": "तकनीकी सहायता",
+   "hinglish": "Technical sahayata"
+  },
+  "Tehsildar/SDM verification": {
+   "hi": "तहसीलदार/SDM सत्यापन",
+   "hinglish": "Tehsildar/SDM verification"
+  },
+  "The crop and area must be notified for insurance": {
+   "hi": "फसल और क्षेत्र बीमा के लिए अधिसूचित होना चाहिए",
+   "hinglish": "Fasal aur area bima ke liye notified hona chahiye"
+  },
+  "The crop to be insured must be identified": {
+   "hi": "जिस फसल का बीमा कराना है उसकी पहचान होनी चाहिए",
+   "hinglish": "Jis fasal ka bima karana hai uski pehchaan honi chahiye"
+  },
+  "The document describes installments and rates; confirm current programme rules before relying on them.": {
+   "hi": "दस्तावेज़ में किस्तों और दरों का वर्णन है; भरोसा करने से पहले वर्तमान कार्यक्रम नियमों की पुष्टि करें।",
+   "hinglish": "Document mein kiston aur daron ka varnan hai; bharosa karne se pehle vartaman programme niyamon ki pushti karein."
+  },
+  "The exact list of applicable talukas should be externally verified; do not hardcode an unsupported list.": {
+   "hi": "लागू तालुकों की सटीक सूची बाहरी स्रोत से सत्यापित की जानी चाहिए; बिना पुष्टि वाली सूची को कोड में स्थायी रूप से न डालें।",
+   "hinglish": "Lagu talukas ki exact list bahari source se verify ki jaani chahiye; bina pushti wali list ko code mein hardcode na karein."
+  },
+  "The office scrutinizes records and carries out field inspection.": {
+   "hi": "कार्यालय रिकॉर्ड की जांच करता है और खेत का निरीक्षण करता है।",
+   "hinglish": "Office records ki jaanch karta hai aur khet ka field inspection karta hai."
+  },
+  "The proposal is forwarded for state-level approval where applicable.": {
+   "hi": "जहां लागू हो, प्रस्ताव राज्य-स्तरीय अनुमोदन के लिए भेजा जाता है।",
+   "hinglish": "Jahan lagu ho, prastav state-level approval ke liye bheja jaata hai."
+  },
+  "The purchase must be through an authorized dealer": {
+   "hi": "खरीद अधिकृत डीलर से होनी चाहिए",
+   "hinglish": "Kharid authorized dealer se honi chahiye"
+  },
+  "The reviewed material targets women farmers, male farmers and youth.": {
+   "hi": "समीक्षित सामग्री महिला किसानों, पुरुष किसानों और युवाओं को लक्षित करती है।",
+   "hinglish": "Reviewed material mahila farmers, purush farmers aur youth ko target karti hai."
+  },
+  "The scheme applies in specified talukas where SMAM is not implemented": {
+   "hi": "यह योजना उन निर्दिष्ट तालुकों में लागू है जहां SMAM लागू नहीं है",
+   "hinglish": "Yeh scheme un nirdisht talukas mein lagu hai jahan SMAM lagu nahi hai"
+  },
+  "The supplied document lists size-specific standard costs, subsidy limits and repair assistance conditions.": {
+   "hi": "उपलब्ध कराए गए दस्तावेज़ में आकार-वार मानक लागत, सब्सिडी की सीमाएं और मरम्मत सहायता की शर्तें दी गई हैं।",
+   "hinglish": "Diye gaye document mein size-wise standard cost, subsidy ki seemayein aur repair sahayata ki sharten di gayi hain."
+  },
+  "The tractor model must be empanelled": {
+   "hi": "ट्रैक्टर का मॉडल सूचीबद्ध (empanelled) होना चाहिए",
+   "hinglish": "Tractor ka model empanelled (soochibaddh) hona chahiye"
+  },
+  "This is a component-level entry under NDKSP; FPO membership and other financial thresholds must be checked with current project rules.": {
+   "hi": "यह NDKSP के अंतर्गत एक घटक-स्तर की प्रविष्टि है; FPO की सदस्यता और अन्य वित्तीय सीमाएं वर्तमान परियोजना नियमों से जांचें।",
+   "hinglish": "Yeh NDKSP ke antargat component-level entry hai; FPO membership aur anya financial thresholds vartaman project niyamon se check karein."
+  },
+  "This is a component-level entry under RAD, not a separate national scheme; avoid double-counting if the main RAD record is shown.": {
+   "hi": "यह RAD के अंतर्गत एक घटक-स्तर की प्रविष्टि है, अलग राष्ट्रीय योजना नहीं; यदि मुख्य RAD रिकॉर्ड दिखाया जा रहा हो तो दोहरी गिनती से बचें।",
+   "hinglish": "Yeh RAD ke antargat component-level entry hai, alag national scheme nahi; agar main RAD record dikhaya ja raha ho to double-counting se bachein."
+  },
+  "This is the RKVY Soil Health and Fertility component described in the document; check whether it overlaps with the existing Soil Health Card record before displaying both.": {
+   "hi": "यह दस्तावेज़ में वर्णित RKVY मृदा स्वास्थ्य एवं उर्वरता घटक है; दोनों दिखाने से पहले जांचें कि क्या यह मौजूदा मृदा स्वास्थ्य कार्ड रिकॉर्ड से मेल खाता है।",
+   "hinglish": "Yeh document mein varnit RKVY Soil Health and Fertility component hai; dono dikhane se pehle check karein ki kya yeh maujooda Soil Health Card record se overlap karta hai."
+  },
+  "Track application": {
+   "hi": "आवेदन ट्रैक करें",
+   "hinglish": "Application track karein"
+  },
+  "Training and eligible beekeeping/value-chain assistance as specified by current guidelines.": {
+   "hi": "वर्तमान दिशानिर्देशों के अनुसार प्रशिक्षण और पात्र मधुमक्खी पालन/वैल्यू-चेन सहायता।",
+   "hinglish": "Vartaman guidelines ke anusaar training aur patra beekeeping/value-chain sahayata."
+  },
+  "Training record": {
+   "hi": "प्रशिक्षण रिकॉर्ड",
+   "hinglish": "Training ka record"
+  },
+  "Training ₹4,000": {
+   "hi": "प्रशिक्षण ₹4,000",
+   "hinglish": "Training ₹4,000"
+  },
+  "Umbrella/component overlap with Goa Vermi-compost and Biogas records is intentional for coverage but should be deduplicated in the UI if listing individual components.": {
+   "hi": "गोवा वर्मी-कम्पोस्ट और बायोगैस रिकॉर्ड के साथ छत्र/घटक का ओवरलैप कवरेज के लिए जानबूझकर रखा गया है, पर अलग-अलग घटक दिखाते समय UI में डुप्लिकेट हटाने चाहिए।",
+   "hinglish": "Goa Vermi-compost aur Biogas records ke saath umbrella/component overlap coverage ke liye jaanboojhkar rakha gaya hai, lekin alag-alag components dikhate samay UI mein duplicates hatane chahiye."
+  },
+  "Undertaking": {
+   "hi": "वचन पत्र (अंडरटेकिंग)",
+   "hinglish": "Undertaking (vachan patra)"
+  },
+  "Undertaking/consent": {
+   "hi": "वचन पत्र/सहमति",
+   "hinglish": "Undertaking/sahmati (consent)"
+  },
+  "Unit cost ₹1,00,000 per hectare; subsidy stated as 50% (₹50,000 per hectare), subject to admissibility.": {
+   "hi": "इकाई लागत ₹1,00,000 प्रति हेक्टेयर; सब्सिडी 50% (₹50,000 प्रति हेक्टेयर) बताई गई है, स्वीकार्यता के अधीन।",
+   "hinglish": "Unit cost ₹1,00,000 prati hectare; subsidy 50% (₹50,000 prati hectare) bataayi gayi hai, admissibility ke adheen."
+  },
+  "Up to 40 PTO HP: 25% of eligible expense or ₹45,000, whichever is less.": {
+   "hi": "40 PTO HP तक: पात्र व्यय का 25% या ₹45,000, जो भी कम हो।",
+   "hinglish": "40 PTO HP tak: patra kharch ka 25% ya ₹45,000, jo bhi kam ho."
+  },
+  "Up to ₹30,000 per family for adoption of integrated farming systems, as stated in the supplied document.": {
+   "hi": "एकीकृत कृषि प्रणालियों को अपनाने के लिए प्रति परिवार ₹30,000 तक, जैसा कि उपलब्ध कराए गए दस्तावेज़ में बताया गया है।",
+   "hinglish": "Integrated farming systems apnane ke liye prati parivar ₹30,000 tak, jaisa ki supplied document mein bataya gaya hai."
+  },
+  "Use an authorized dealer covered by the scheme.": {
+   "hi": "योजना के अंतर्गत आने वाले किसी अधिकृत डीलर का उपयोग करें।",
+   "hinglish": "Scheme ke antargat aane wale kisi authorized dealer ka upyog karein."
+  },
+  "Use current official component/state guidance before presenting an application URL.": {
+   "hi": "आवेदन का URL दिखाने से पहले घटक/राज्य का वर्तमान आधिकारिक मार्गदर्शन देखें।",
+   "hinglish": "Application URL dikhane se pehle component/state ka vartaman official guidance dekhein."
+  },
+  "Use the application reference details to track progress.": {
+   "hi": "प्रगति देखने के लिए आवेदन के संदर्भ विवरण का उपयोग करें।",
+   "hinglish": "Progress dekhne ke liye application ki reference details ka upyog karein."
+  },
+  "Use the official portal or local implementing office if applications are open and the applicant meets the current requirements.": {
+   "hi": "यदि आवेदन खुले हैं और आवेदक वर्तमान आवश्यकताएं पूरी करता है, तो आधिकारिक पोर्टल या स्थानीय कार्यान्वयन कार्यालय का उपयोग करें।",
+   "hinglish": "Agar applications khule hain aur applicant vartaman zarooraton ko poora karta hai, to official portal ya sthaniya implementing office ka upyog karein."
+  },
+  "Use the project DBT portal to register and submit the applicable proposal.": {
+   "hi": "पंजीकरण करने और लागू प्रस्ताव जमा करने के लिए परियोजना DBT पोर्टल का उपयोग करें।",
+   "hinglish": "Register karne aur lagu prastav jama karne ke liye project DBT portal ka upyog karein."
+  },
+  "Use the soil report and recommendations for nutrient management.": {
+   "hi": "पोषक तत्व प्रबंधन के लिए मृदा रिपोर्ट और सिफारिशों का उपयोग करें।",
+   "hinglish": "Nutrient management ke liye soil report aur recommendations ka upyog karein."
+  },
+  "Uttarakhand": {
+   "hi": "उत्तराखंड",
+   "hinglish": "Uttarakhand"
+  },
+  "Uttarakhand agriculture/irrigation implementing authorities": {
+   "hi": "उत्तराखंड कृषि/सिंचाई कार्यान्वयन प्राधिकरण",
+   "hinglish": "Uttarakhand krishi/sinchai implementing authorities"
+  },
+  "Uttarakhand state disaster/agriculture implementing authorities": {
+   "hi": "उत्तराखंड राज्य आपदा/कृषि कार्यान्वयन प्राधिकरण",
+   "hinglish": "Uttarakhand state aapda/krishi implementing authorities"
+  },
+  "Verify activity and location.": {
+   "hi": "गतिविधि और स्थान सत्यापित करवाएं।",
+   "hinglish": "Gatividhi aur location verify karwayein."
+  },
+  "Verify age from an accepted document.": {
+   "hi": "किसी मान्य दस्तावेज़ से आयु सत्यापित करवाएं।",
+   "hinglish": "Kisi maanya document se aayu verify karwayein."
+  },
+  "Verify age; the document notes a relaxation to 14 years for persons with mental retardation.": {
+   "hi": "आयु सत्यापित करें; दस्तावेज़ में मानसिक मंदता वाले व्यक्तियों के लिए 14 वर्ष तक की छूट का उल्लेख है।",
+   "hinglish": "Aayu verify karein; document mein mansik mandta (mental retardation) wale vyaktiyon ke liye 14 saal tak ki chhoot ka ullekh hai."
+  },
+  "Verify Assam residency.": {
+   "hi": "असम का निवास सत्यापित करवाएं।",
+   "hinglish": "Assam ka niwas verify karwayein."
+  },
+  "Verify category against the applicable scheme rules.": {
+   "hi": "लागू योजना नियमों के अनुसार अपनी श्रेणी सत्यापित करवाएं।",
+   "hinglish": "Lagu scheme niyamon ke anusaar apni category verify karwayein."
+  },
+  "Verify current guidelines before relying on eligibility or benefit details.": {
+   "hi": "पात्रता या लाभ के विवरण पर भरोसा करने से पहले वर्तमान दिशानिर्देश सत्यापित करें।",
+   "hinglish": "Eligibility ya benefit ki details par bharosa karne se pehle vartaman guidelines verify karein."
+  },
+  "Verify eligible village and component.": {
+   "hi": "पात्र गांव और घटक सत्यापित करवाएं।",
+   "hinglish": "Patra gaon aur component verify karwayein."
+  },
+  "Verify farmer status with the implementing authority.": {
+   "hi": "कार्यान्वयन प्राधिकरण से किसान की स्थिति सत्यापित करवाएं।",
+   "hinglish": "Implementing authority se farmer status verify karwayein."
+  },
+  "Verify farmer status.": {
+   "hi": "किसान की स्थिति सत्यापित करवाएं।",
+   "hinglish": "Farmer status verify karwayein."
+  },
+  "Verify farmer/tenancy status and insurable interest.": {
+   "hi": "किसान/काश्तकारी की स्थिति और बीमा योग्य हित सत्यापित करवाएं।",
+   "hinglish": "Farmer/tenancy status aur insurable interest (bima yogya hit) verify karwayein."
+  },
+  "Verify Gujarat residency.": {
+   "hi": "गुजरात का निवास सत्यापित करवाएं।",
+   "hinglish": "Gujarat ka niwas verify karwayein."
+  },
+  "Verify KCC holder status.": {
+   "hi": "KCC धारक की स्थिति सत्यापित करवाएं।",
+   "hinglish": "KCC holder status verify karwayein."
+  },
+  "Verify notification for the crop and area before applying.": {
+   "hi": "आवेदन से पहले फसल और क्षेत्र की अधिसूचना सत्यापित करें।",
+   "hinglish": "Apply karne se pehle fasal aur area ka notification verify karein."
+  },
+  "Verify or satisfy the minimum command-area requirement.": {
+   "hi": "न्यूनतम कमांड-क्षेत्र की आवश्यकता सत्यापित करें या पूरी करें।",
+   "hinglish": "Minimum command-area ki zaroorat verify karein ya poori karein."
+  },
+  "Verify project eligibility with the implementing authority.": {
+   "hi": "कार्यान्वयन प्राधिकरण से परियोजना की पात्रता सत्यापित करवाएं।",
+   "hinglish": "Implementing authority se project ki eligibility verify karwayein."
+  },
+  "Verify residency/activity and scheme conditions.": {
+   "hi": "निवास/गतिविधि और योजना की शर्तें सत्यापित करवाएं।",
+   "hinglish": "Niwas/gatividhi aur scheme ki sharten verify karwayein."
+  },
+  "Verify status with the Coffee Board.": {
+   "hi": "कॉफी बोर्ड से स्थिति सत्यापित करवाएं।",
+   "hinglish": "Coffee Board se status verify karwayein."
+  },
+  "Verify taluka condition": {
+   "hi": "तालुका की शर्त सत्यापित करें",
+   "hinglish": "Taluka ki shart verify karein"
+  },
+  "Verify Tamil Nadu location.": {
+   "hi": "तमिलनाडु में अपनी स्थिति सत्यापित करवाएं।",
+   "hinglish": "Tamil Nadu mein apni location verify karwayein."
+  },
+  "Verify that the applicant's taluka satisfies the current scheme geographic condition.": {
+   "hi": "सत्यापित करें कि आवेदक का तालुका वर्तमान योजना की भौगोलिक शर्त पूरी करता है।",
+   "hinglish": "Verify karein ki applicant ka taluka vartaman scheme ki bhaugolik shart poori karta hai."
+  },
+  "Verify the applicable small/marginal farmer condition with the implementing authority.": {
+   "hi": "कार्यान्वयन प्राधिकरण से लागू लघु/सीमांत किसान की शर्त सत्यापित करवाएं।",
+   "hinglish": "Implementing authority se lagu small/marginal farmer ki shart verify karwayein."
+  },
+  "Verify the current taluka-level SMAM status.": {
+   "hi": "तालुका-स्तर पर SMAM की वर्तमान स्थिति सत्यापित करें।",
+   "hinglish": "Taluka-level par SMAM ki vartaman sthiti verify karein."
+  },
+  "Verify the model against the current empanelled list.": {
+   "hi": "मॉडल को वर्तमान सूचीबद्ध मॉडलों की सूची से मिलाकर सत्यापित करें।",
+   "hinglish": "Model ko vartaman empanelled list se milakar verify karein."
+  },
+  "Verify Uttarakhand location.": {
+   "hi": "उत्तराखंड में अपनी स्थिति सत्यापित करवाएं।",
+   "hinglish": "Uttarakhand mein apni location verify karwayein."
+  },
+  "Verify Uttarakhand residency.": {
+   "hi": "उत्तराखंड का निवास सत्यापित करवाएं।",
+   "hinglish": "Uttarakhand ka niwas verify karwayein."
+  },
+  "Visit the Zonal Agriculture Officer and request the prescribed form.": {
+   "hi": "ज़ोनल कृषि अधिकारी के पास जाकर निर्धारित फ़ॉर्म मांगें।",
+   "hinglish": "Zonal Krishi Adhikari ke paas jaakar nirdharit form maangein."
+  },
+  "Wait for agriculture officer/project approval before carrying out approved work.": {
+   "hi": "स्वीकृत कार्य शुरू करने से पहले कृषि अधिकारी/परियोजना की मंज़ूरी का इंतज़ार करें।",
+   "hinglish": "Approved kaam shuru karne se pehle krishi adhikari/project ki manzoori ka intezaar karein."
+  },
+  "Where applicable": {
+   "hi": "जहां लागू हो",
+   "hinglish": "Jahan lagu ho"
+  },
+  "₹17,000/ha for assured irrigation, minimum ₹2,000": {
+   "hi": "सुनिश्चित सिंचाई के लिए ₹17,000/हेक्टेयर, न्यूनतम ₹2,000",
+   "hinglish": "Sunishchit sinchai ke liye ₹17,000/hectare, minimum ₹2,000"
+  },
+  "₹22,500/ha for evergreen category, minimum ₹2,500": {
+   "hi": "बारहमासी (evergreen) श्रेणी के लिए ₹22,500/हेक्टेयर, न्यूनतम ₹2,500",
+   "hinglish": "Barahmasi (evergreen) category ke liye ₹22,500/hectare, minimum ₹2,500"
+  },
+  "₹5,000 per farmer through DBT for farm tools; single installment.": {
+   "hi": "कृषि औज़ारों के लिए DBT के माध्यम से प्रति किसान ₹5,000; एकल किस्त।",
+   "hinglish": "Farm tools ke liye DBT ke zariye prati farmer ₹5,000; single installment."
+  },
+  "₹6,000 per year in three instalments of ₹2,000, subject to eligibility and exclusions.": {
+   "hi": "₹6,000 प्रति वर्ष, ₹2,000 की तीन किस्तों में, पात्रता और अपवर्जनों के अधीन।",
+   "hinglish": "₹6,000 prati varsh, ₹2,000 ki teen kiston mein, eligibility aur exclusions ke adheen."
+  },
+  "₹6,000 per year in three instalments.": {
+   "hi": "₹6,000 प्रति वर्ष, तीन किस्तों में।",
+   "hinglish": "₹6,000 prati varsh, teen kiston mein."
+  },
+  "₹8,500/ha for unirrigated land, minimum ₹1,000": {
+   "hi": "असिंचित भूमि के लिए ₹8,500/हेक्टेयर, न्यूनतम ₹1,000",
+   "hinglish": "Asinchit bhoomi ke liye ₹8,500/hectare, minimum ₹1,000"
+  }
+ },
+ "vocabulary": {
+  "categories": {
+   "financial": {
+    "en": "Financial support",
+    "hi": "वित्तीय सहायता",
+    "hinglish": "Financial Support"
+   },
+   "crop_insurance": {
+    "en": "Crop insurance",
+    "hi": "फसल बीमा",
+    "hinglish": "Fasal Bima (Crop Insurance)"
+   },
+   "seeds_crops": {
+    "en": "Seeds & crops",
+    "hi": "बीज और फसल",
+    "hinglish": "Beej aur Fasal"
+   },
+   "irrigation": {
+    "en": "Irrigation",
+    "hi": "सिंचाई",
+    "hinglish": "Sinchai (Irrigation)"
+   },
+   "horticulture": {
+    "en": "Horticulture",
+    "hi": "बागवानी",
+    "hinglish": "Baagwani (Horticulture)"
+   },
+   "farm_mechanization": {
+    "en": "Farm mechanization",
+    "hi": "कृषि मशीनीकरण",
+    "hinglish": "Krishi Mechanization"
+   },
+   "training": {
+    "en": "Training",
+    "hi": "प्रशिक्षण",
+    "hinglish": "Training"
+   },
+   "pension": {
+    "en": "Pension",
+    "hi": "पेंशन",
+    "hinglish": "Pension"
+   },
+   "credit": {
+    "en": "Credit",
+    "hi": "ऋण",
+    "hinglish": "Credit (Loan)"
+   },
+   "infrastructure": {
+    "en": "Infrastructure",
+    "hi": "अवसंरचना",
+    "hinglish": "Infrastructure"
+   },
+   "mechanization": {
+    "en": "Mechanization",
+    "hi": "मशीनीकरण",
+    "hinglish": "Mechanization"
+   },
+   "organic_farming": {
+    "en": "Organic farming",
+    "hi": "जैविक खेती",
+    "hinglish": "Organic Farming"
+   },
+   "soil_health": {
+    "en": "Soil health",
+    "hi": "मृदा स्वास्थ्य",
+    "hinglish": "Soil Health"
+   },
+   "renewable_energy": {
+    "en": "Renewable energy",
+    "hi": "नवीकरणीय ऊर्जा",
+    "hinglish": "Renewable Energy"
+   },
+   "agriculture_development": {
+    "en": "Agriculture development",
+    "hi": "कृषि विकास",
+    "hinglish": "Krishi Vikas"
+   },
+   "natural_farming": {
+    "en": "Natural farming",
+    "hi": "प्राकृतिक खेती",
+    "hinglish": "Prakritik Kheti"
+   },
+   "seeds": {
+    "en": "Seeds",
+    "hi": "बीज",
+    "hinglish": "Beej (Seeds)"
+   },
+   "bamboo": {
+    "en": "Bamboo",
+    "hi": "बांस",
+    "hinglish": "Baans (Bamboo)"
+   },
+   "beekeeping": {
+    "en": "Beekeeping",
+    "hi": "मधुमक्खी पालन",
+    "hinglish": "Madhumakkhi Palan"
+   },
+   "marketing": {
+    "en": "Marketing",
+    "hi": "विपणन",
+    "hinglish": "Marketing"
+   },
+   "integrated_farming": {
+    "en": "Integrated farming",
+    "hi": "एकीकृत खेती",
+    "hinglish": "Integrated Farming"
+   },
+   "climate_resilience": {
+    "en": "Climate resilience",
+    "hi": "जलवायु अनुकूलन",
+    "hinglish": "Climate Resilience"
+   },
+   "farmer_collectives": {
+    "en": "Farmer collectives",
+    "hi": "किसान समूह",
+    "hinglish": "Farmer Collectives"
+   }
+  },
+  "states": {
+   "Andhra Pradesh": {
+    "en": "Andhra Pradesh",
+    "hi": "आंध्र प्रदेश",
+    "hinglish": "Andhra Pradesh"
+   },
+   "Arunachal Pradesh": {
+    "en": "Arunachal Pradesh",
+    "hi": "अरुणाचल प्रदेश",
+    "hinglish": "Arunachal Pradesh"
+   },
+   "Assam": {
+    "en": "Assam",
+    "hi": "असम",
+    "hinglish": "Assam"
+   },
+   "Bihar": {
+    "en": "Bihar",
+    "hi": "बिहार",
+    "hinglish": "Bihar"
+   },
+   "Chhattisgarh": {
+    "en": "Chhattisgarh",
+    "hi": "छत्तीसगढ़",
+    "hinglish": "Chhattisgarh"
+   },
+   "Goa": {
+    "en": "Goa",
+    "hi": "गोवा",
+    "hinglish": "Goa"
+   },
+   "Gujarat": {
+    "en": "Gujarat",
+    "hi": "गुजरात",
+    "hinglish": "Gujarat"
+   },
+   "Haryana": {
+    "en": "Haryana",
+    "hi": "हरियाणा",
+    "hinglish": "Haryana"
+   },
+   "Himachal Pradesh": {
+    "en": "Himachal Pradesh",
+    "hi": "हिमाचल प्रदेश",
+    "hinglish": "Himachal Pradesh"
+   },
+   "Jharkhand": {
+    "en": "Jharkhand",
+    "hi": "झारखंड",
+    "hinglish": "Jharkhand"
+   },
+   "Karnataka": {
+    "en": "Karnataka",
+    "hi": "कर्नाटक",
+    "hinglish": "Karnataka"
+   },
+   "Kerala": {
+    "en": "Kerala",
+    "hi": "केरल",
+    "hinglish": "Kerala"
+   },
+   "Madhya Pradesh": {
+    "en": "Madhya Pradesh",
+    "hi": "मध्य प्रदेश",
+    "hinglish": "Madhya Pradesh"
+   },
+   "Maharashtra": {
+    "en": "Maharashtra",
+    "hi": "महाराष्ट्र",
+    "hinglish": "Maharashtra"
+   },
+   "Manipur": {
+    "en": "Manipur",
+    "hi": "मणिपुर",
+    "hinglish": "Manipur"
+   },
+   "Meghalaya": {
+    "en": "Meghalaya",
+    "hi": "मेघालय",
+    "hinglish": "Meghalaya"
+   },
+   "Mizoram": {
+    "en": "Mizoram",
+    "hi": "मिज़ोरम",
+    "hinglish": "Mizoram"
+   },
+   "Nagaland": {
+    "en": "Nagaland",
+    "hi": "नागालैंड",
+    "hinglish": "Nagaland"
+   },
+   "Odisha": {
+    "en": "Odisha",
+    "hi": "ओडिशा",
+    "hinglish": "Odisha"
+   },
+   "Punjab": {
+    "en": "Punjab",
+    "hi": "पंजाब",
+    "hinglish": "Punjab"
+   },
+   "Rajasthan": {
+    "en": "Rajasthan",
+    "hi": "राजस्थान",
+    "hinglish": "Rajasthan"
+   },
+   "Sikkim": {
+    "en": "Sikkim",
+    "hi": "सिक्किम",
+    "hinglish": "Sikkim"
+   },
+   "Tamil Nadu": {
+    "en": "Tamil Nadu",
+    "hi": "तमिलनाडु",
+    "hinglish": "Tamil Nadu"
+   },
+   "Telangana": {
+    "en": "Telangana",
+    "hi": "तेलंगाना",
+    "hinglish": "Telangana"
+   },
+   "Tripura": {
+    "en": "Tripura",
+    "hi": "त्रिपुरा",
+    "hinglish": "Tripura"
+   },
+   "Uttar Pradesh": {
+    "en": "Uttar Pradesh",
+    "hi": "उत्तर प्रदेश",
+    "hinglish": "Uttar Pradesh"
+   },
+   "Uttarakhand": {
+    "en": "Uttarakhand",
+    "hi": "उत्तराखंड",
+    "hinglish": "Uttarakhand"
+   },
+   "West Bengal": {
+    "en": "West Bengal",
+    "hi": "पश्चिम बंगाल",
+    "hinglish": "West Bengal"
+   },
+   "Andaman and Nicobar Islands": {
+    "en": "Andaman and Nicobar Islands",
+    "hi": "अंडमान और निकोबार द्वीप समूह",
+    "hinglish": "Andaman and Nicobar Islands"
+   },
+   "Chandigarh": {
+    "en": "Chandigarh",
+    "hi": "चंडीगढ़",
+    "hinglish": "Chandigarh"
+   },
+   "Dadra and Nagar Haveli and Daman and Diu": {
+    "en": "Dadra and Nagar Haveli and Daman and Diu",
+    "hi": "दादरा और नगर हवेली तथा दमन और दीव",
+    "hinglish": "Dadra and Nagar Haveli and Daman and Diu"
+   },
+   "Delhi": {
+    "en": "Delhi",
+    "hi": "दिल्ली",
+    "hinglish": "Delhi"
+   },
+   "Jammu and Kashmir": {
+    "en": "Jammu and Kashmir",
+    "hi": "जम्मू और कश्मीर",
+    "hinglish": "Jammu and Kashmir"
+   },
+   "Ladakh": {
+    "en": "Ladakh",
+    "hi": "लद्दाख",
+    "hinglish": "Ladakh"
+   },
+   "Lakshadweep": {
+    "en": "Lakshadweep",
+    "hi": "लक्षद्वीप",
+    "hinglish": "Lakshadweep"
+   },
+   "Puducherry": {
+    "en": "Puducherry",
+    "hi": "पुदुच्चेरी",
+    "hinglish": "Puducherry"
+   },
+   "All India": {
+    "en": "All India",
+    "hi": "संपूर्ण भारत",
+    "hinglish": "Poore India (All India)"
+   }
+  },
+  "levels": {
+   "central": {
+    "en": "Central",
+    "hi": "केंद्र सरकार",
+    "hinglish": "Kendra Sarkar (Central)"
+   },
+   "state": {
+    "en": "State",
+    "hi": "राज्य सरकार",
+    "hinglish": "Rajya Sarkar (State)"
+   },
+   "district": {
+    "en": "District",
+    "hi": "जिला",
+    "hinglish": "Zila (District)"
+   },
+   "local": {
+    "en": "Local",
+    "hi": "स्थानीय",
+    "hinglish": "Sthaniya (Local)"
+   }
+  }
+ }
+}
